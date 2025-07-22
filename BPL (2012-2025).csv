@@ -1,0 +1,482 @@
+season,match_no,date,team_1,team_1_score,team_1_wicket,team_2,team_2_score,team_2_wicket,player_of_match,toss_winner,toss_decision,winner,venue,city,win_by_wickets,win_by_runs,result,umpire_1,umpire_2
+2011/12,Final,Feb 29 2012,Barisal Burners,140,7,Dhaka Gladiators,144,2,Imran Nazir,Dhaka Gladiators,field first,Dhaka,SBNCS,Mirpur,8,0,8 wickets,David Orchard,Enamul Haque
+2011/12,2nd,Feb 28 2012,Dhaka Gladiators,191,4,Khulna Royal Bengals,182,7,Azhar Mahmood,Dhaka Gladiators,bat first,Dhaka,SBNCS,Mirpur,0,9,9 runs,Enamul Haque,Nadir Shah
+2011/12,1st,Feb 28 2012,Duronto Rajshahi,184,6,Barisal Burners,189,2,Ahmed Shehzad,Barisal Burners,field first,Barisal,SBNCS,Mirpur,8,0,8 wickets,David Orchard,Sharfuddoula
+2011/12,29th,Feb 27 2012,Dhaka Gladiators,116,10,Duronto Rajshahi,120,7,Mohammad Sami,Dhaka Gladiators,bat first,Rajshahi,SBNCS,Mirpur,3,0,3 wickets,Mahfuzur Rahman,Nadir Shah
+2011/12,28th,Feb 26 2012,Chittagong Kings,150,9,Barisal Burners,151,5,Brad Hodge,Barisal Burners,field first,Barisal,SBNCS,Mirpur,5,0,5 wickets,Gazi Sohel,Jeremy Lloyds
+2011/12,27th,Feb 26 2012,Khulna Royal Bengals,106,10,Duronto Rajshahi,110,2,Sean Ervine,Khulna Royal Bengals,bat first,Rajshahi,SBNCS,Mirpur,8,0,8 wickets,David Orchard,Nadir Shah
+2011/12,26th,Feb 25 2012,Sylhet Royals,165,3,Chittagong Kings,130,8,Peter Trego,Chittagong Kings,field first,Royals,SBNCS,Mirpur,0,35,35 runs,David Orchard,Masudur Rahman
+2011/12,25th,Feb 25 2012,Barisal Burners,156,6,Dhaka Gladiators,160,5,Imran Nazir,Dhaka Gladiators,field first,Dhaka,SBNCS,Mirpur,5,0,5 wickets,Jeremy Lloyds,Nadir Shah
+2011/12,24th,Feb 24 2012,Duronto Rajshahi,124,9,Sylhet Royals,125,1,Sohail Tanvir,Sylhet Royals,field first,Royals,SBNCS,Mirpur,9,0,9 wickets,Anisur Rahman,Jeremy Lloyds
+2012/13,Final,Feb 19 2013,Dhaka Gladiators,172,9,Chittagong Kings,129,10,Mosharraf Hossain,Chittagong Kings,field first,Dhaka,SBNCS,Mirpur,0,43,43 runs,Enamul Haque,Richard Illingworth
+2011/12,23rd,Feb 24 2012,Chittagong Kings,120,6,Dhaka Gladiators,107,9,Dwayne Bravo,Dhaka Gladiators,field first,Chittagong,SBNCS,Mirpur,0,13,13 runs,David Orchard,Nadir Shah
+2012/13,Semi-Final,Feb 18 2013,Sylhet Royals,149,7,Chittagong Kings,150,7,Ryan ten Doeschate,Chittagong Kings,field first,Chittagong,SBNCS,Mirpur,3,0,3 wickets,Enamul Haque,Jeremy Lloyds
+2011/12,22nd,Feb 22 2012,Khulna Royal Bengals,161,7,Barisal Burners,162,6,Mominul Haque,Khulna Royal Bengals,bat first,Barisal,ZACS,Chattogram,4,0,4 wickets,Enamul Haque,Jeremy Lloyds
+2011/12,21st,Feb 22 2012,Sylhet Royals,128,7,Dhaka Gladiators,132,2,Azhar Mahmood,Dhaka Gladiators,field first,Dhaka,ZACS,Chattogram,8,0,8 wickets,David Orchard,Sharfuddoula
+2012/13,Elimination,Feb 16 2013,Duronto Rajshahi,107,7,Chittagong Kings,108,6,Taskin Ahmed,Duronto Rajshahi,bat first,Chittagong,SBNCS,Mirpur,4,0,4 wickets,Anisur Rahman,Richard Illingworth
+2011/12,20th,Feb 20 2012,Khulna Royal Bengals,137,6,Chittagong Kings,93,10,Nasir Hossain,Chittagong Kings,field first,Khulna,ZACS,Chattogram,0,44,44 runs,David Orchard,Sharfuddoula
+2012/13,Race,Feb 15 2013,Dhaka Gladiators,197,9,Sylhet Royals,193,6,Chris Gayle,Sylhet Royals,field first,Dhaka,SBNCS,Mirpur,0,4,4 runs,Enamul Haque,Jeremy Lloyds
+2011/12,19th,Feb 20 2012,Barisal Burners,192,3,Duronto Rajshahi,193,1,Junaid Siddique,Barisal Burners,bat first,Rajshahi,ZACS,Chattogram,9,0,9 wickets,Enamul Haque,Jeremy Lloyds
+2012/13,42nd,Feb 14 2013,Dhaka Gladiators,168,6,Chittagong Kings,139,9,Shakib Al Hasan,Chittagong Kings,field first,Dhaka,SBNCS,Mirpur,0,29,29 runs,Anisur Rahman,Jeremy Lloyds
+2011/12,18th,Feb 19 2012,Sylhet Royals,120,7,Barisal Burners,121,1,Brad Hodge,Sylhet Royals,bat first,Barisal,ZACS,Chattogram,9,0,9 wickets,Enamul Haque,Jeremy Lloyds
+2012/13,41st,Feb 14 2013,Barisal Burners,139,7,Rangpur Riders,113,10,Hamid Hassan,Barisal Burners,bat first,Barisal,SBNCS,Mirpur,0,26,26 runs,Enamul Haque,Jeremy Lloyds
+2011/12,17th,Feb 19 2012,Dhaka Gladiators,140,8,Khulna Royal Bengals,141,3,Shivnarine Chanderpaul,Dhaka Gladiators,bat first,Khulna,ZACS,Chattogram,7,0,7 wickets,David Orchard,Sharfuddoula
+2012/13,40th,Feb 13 2013,Barisal Burners,144,9,Sylhet Royals,145,9,Paul Stirling,Sylhet Royals,field first,Royals,SBNCS,Mirpur,0,0,1 wicket,Enamul Haque,Jeremy Lloyds
+2011/12,16th,Feb 18 2012,Duronto Rajshahi,126,6,Chittagong Kings,117,9,Saqlain Sajib,Duronto Rajshahi,bat first,Rajshahi,ZACS,Chattogram,0,9,9 runs,David Orchard,Sharfuddoula
+2011/12,15th,Feb 18 2012,Khulna Royal Bengals,171,6,Sylhet Royals,169,8,Andre Russell,Sylhet Royals,field first,Khulna,ZACS,Chattogram,0,2,2 runs,Enamul Haque,Jeremy Lloyds
+2012/13,39th,Feb 13 2013,Chittagong Kings,193,3,Duronto Rajshahi,160,6,Jason Roy,Duronto Rajshahi,field first,Chittagong,SBNCS,Mirpur,0,33,33 runs,Gazi Sohel,Richard Illingworth
+2011/12,14th,Feb 16 2012,Duronto Rajshahi,144,9,Dhaka Gladiators,130,7,Marlon Samuels,Dhaka Gladiators,field first,Rajshahi,SBNCS,Mirpur,0,14,14 runs,Jeremy Lloyds,Sharfuddoula
+2012/13,38th,Feb 12 2013,Dhaka Gladiators,114,10,Barisal Burners,117,3,Brad Hodge,Dhaka Gladiators,bat first,Barisal,SBNCS,Mirpur,7,0,7 wickets,Enamul Haque,Richard Illingworth
+2011/12,13th,Feb 16 2012,Barisal Burners,125,6,Chittagong Kings,126,2,Nasir Jamshed,Chittagong Kings,field first,Chittagong,SBNCS,Mirpur,8,0,8 wickets,David Orchard,Enamul Haque
+2015/16,Final,Dec 15 2015,Barisal Bulls,156,4,Comilla Victorians,157,7,Alok Kapali,Comilla Victorians,field first,Victorians,SBNCS,Mirpur,3,0,3 wickets,Ahsan Raza,Ranmore Martinesz
+2011/12,12th,Feb 15 2012,Khulna Royal Bengals,145,7,Duronto Rajshahi,146,4,Mushfiqur Rahim,Khulna Royal Bengals,bat first,Rajshahi,SBNCS,Mirpur,6,0,6 wickets,David Orchard,Masudur Rahman
+2015/16,Qualifier,Dec 13 2015,Rangpur Riders,160,9,Barisal Bulls,163,5,Sabbir Rahman,Rangpur Riders,bat first,Bulls,SBNCS,Mirpur,5,0,5 wickets,Enamul Haque,Ranmore Martinesz
+2011/12,11th,Feb 15 2012,Sylhet Royals,152,4,Chittagong Kings,154,3,Mahmudullah,Sylhet Royals,bat first,Chittagong,SBNCS,Mirpur,7,0,7 wickets,Enamul Haque,Jeremy Lloyds
+2015/16,Eliminator,Dec 12 2015,Barisal Bulls,135,5,Dhaka Dynamites,117,8,Al-Amin Hossain,Dhaka Dynamites,field first,Bulls,SBNCS,Mirpur,0,18,18 runs,Ahsan Raza,Gazi Sohel
+2011/12,10th,Feb 14 2012,Dhaka Gladiators,208,5,Barisal Burners,187,5,Azhar Mahmood,Barisal Burners,field first,Dhaka,SBNCS,Mirpur,0,21,21 runs,Jeremy Lloyds,Sharfuddoula
+2015/16,Qualifier,Dec 12 2015,Comilla Victorians,163,7,Rangpur Riders,91,10,Ashar Zaidi,Rangpur Riders,field first,Victorians,SBNCS,Mirpur,0,72,72 runs,Enamul Haque,Ranmore Martinesz
+2011/12,9th,Feb 14 2012,Duronto Rajshahi,171,8,Sylhet Royals,155,4,Marlon Samuels,Duronto Rajshahi,bat first,Rajshahi,SBNCS,Mirpur,0,16,16 runs,David Orchard,Enamul Haque
+2011/12,8th,Feb 13 2012,Chittagong Kings,153,6,Dhaka Gladiators,156,4,Kieron Pollard,Chittagong Kings,bat first,Dhaka,SBNCS,Mirpur,6,0,6 wickets,David Orchard,Sharfuddoula
+2015/16,29th,Dec 10 2015,Comilla Victorians,150,4,Sylhet Super Stars,79,10,Ahmed Shehzad,Sylhet Super Stars,field first,Victorians,SBNCS,Mirpur,0,71,71 runs,Ahsan Raza,Enamul Haque
+2011/12,7th,Feb 13 2012,Barisal Burners,125,10,Khulna Royal Bengals,131,3,Dwayne Smith,Khulna Royal Bengals,field first,Khulna,SBNCS,Mirpur,7,0,7 wickets,Enamul Haque,Jeremy Lloyds
+2015/16,28th,Dec 9 2015,Chittagong Vikings,135,7,Barisal Bulls,141,2,Chris Gayle,Barisal Bulls,field first,Bulls,SBNCS,Mirpur,8,0,8 wickets,Ahsan Raza,Gazi Sohel
+2011/12,6th,Feb 12 2012,Sylhet Royals,124,10,Dhaka Gladiators,126,3,Anamul Haque,Sylhet Royals,bat first,Dhaka,SBNCS,Mirpur,7,0,7 wickets,Jeremy Lloyds,Sharfuddoula
+2015/16,27th,Dec 9 2015,Dhaka Dynamites,157,5,Sylhet Super Stars,162,4,Ravi Bopara,Sylhet Super Stars,field first,Super,SBNCS,Mirpur,0,0,by 6,Mahfuzur Rahman,Masudur Rahman
+2011/12,5th,Feb 12 2012,Khulna Royal Bengals,171,3,Chittagong Kings,174,4,Nasir Jamshed,Khulna Royal Bengals,bat first,Chittagong,SBNCS,Mirpur,6,0,6 wickets,David Orchard,Enamul Haque
+2015/16,26th,Dec 8 2015,Rangpur Riders,153,6,Comilla Victorians,132,10,Jahurul Islam,Comilla Victorians,field first,Riders,SBNCS,Mirpur,0,21,21 runs,Gazi Sohel,Ranmore Martinesz
+2011/12,4th,Feb 11 2012,Barisal Burners,180,2,Duronto Rajshahi,158,9,Ahmed Shehzad,Barisal Burners,bat first,Barisal,SBNCS,Mirpur,0,22,22 runs,David Orchard,Gazi Sohel
+2015/16,25th,Dec 8 2015,Dhaka Dynamites,121,8,Chittagong Vikings,76,10,Mosharraf Hossain,Chittagong Vikings,field first,Dynamites,SBNCS,Mirpur,0,45,45 runs,Ahsan Raza,Masudur Rahman
+2011/12,3rd,Feb 11 2012,Khulna Royal Bengals,175,5,Dhaka Gladiators,156,7,Andre Russell,Khulna Royal Bengals,bat first,Khulna,SBNCS,Mirpur,0,19,19 runs,Jeremy Lloyds,Sharfuddoula
+2016/17,Final,Dec 9 2016,Dhaka Dynamites,159,9,Rajshahi Kings,103,10,Kumar Sangakkara,Rajshahi Kings,field first,Dynamites,SBNCS,Mirpur,0,56,56 runs,Khalid Mahmood,Mahfuzur Rahman
+2011/12,2nd,Feb 10 2012,Chittagong Kings,206,4,Duronto Rajshahi,153,10,Dwayne Bravo,Chittagong Kings,bat first,Chittagong,SBNCS,Mirpur,0,53,53 runs,Jeremy Lloyds,Sharfuddoula
+2016/17,Qualifier,Dec 7 2016,Khulna Titans,125,9,Rajshahi Kings,129,3,Samit Patel,Khulna Titans,bat first,Kings,SBNCS,Mirpur,7,0,7 wickets,Masudur Rahman,Ranmore Martinesz
+2011/12,1st,Feb 10 2012,Sylhet Royals,165,4,Barisal Burners,167,0,Chris Gayle,Barisal Burners,field first,Barisal,SBNCS,Mirpur,10,0,10 wickets,Anisur Rahman,David Orchard
+2016/17,Qualifier,Dec 6 2016,Dhaka Dynamites,140,8,Khulna Titans,86,10,Andre Russell,Khulna Titans,field first,Dynamites,SBNCS,Mirpur,0,54,54 runs,Khalid Mahmood,Nadir Shah
+2016/17,"Eliminator,",Dec 6 2016,Chittagong Vikings,142,8,Rajshahi Kings,143,7,Daren Sammy,Rajshahi Kings,field first,Kings,SBNCS,Mirpur,3,0,3 wickets,Masudur Rahman,Ranmore Martinesz
+2016/17,42nd,Dec 4 2016,Dhaka Dynamites,158,7,Khulna Titans,159,4,Mahmudullah,Khulna Titans,field first,Titans,SBNCS,Mirpur,6,0,6 wickets,Morshed Ali Khan,Ranmore Martinesz
+2016/17,41st,Dec 4 2016,Comilla Victorians,170,6,Rangpur Riders,162,8,Rashid Khan,Rangpur Riders,field first,Victorians,SBNCS,Mirpur,0,8,8 runs,Khalid Mahmood,Nadir Shah
+2016/17,40th,Dec 3 2016,Chittagong Vikings,111,9,Rajshahi Kings,112,4,Afif Hossain,Rajshahi Kings,field first,Kings,SBNCS,Mirpur,6,0,6 wickets,Nadir Shah,Ranmore Martinesz
+2016/17,39th,Dec 3 2016,Rangpur Riders,154,5,Barisal Bulls,125,10,Mohammad Shahzad,Rangpur Riders,bat first,Riders,SBNCS,Mirpur,0,29,29 runs,Khalid Mahmud,Mahfuzur Rahman
+2016/17,38th,Dec 2 2016,Chittagong Vikings,134,6,Dhaka Dynamites,135,4,Dwayne Bravo,Dhaka Dynamites,field first,Dynamites,SBNCS,Mirpur,6,0,6 wickets,Khalid Mahmud,Masudur Rahman
+2016/17,37th,Dec 2 2016,Khulna Titans,141,6,Comilla Victorians,142,5,Marlon Samuels,Comilla Victorians,field first,Victorians,SBNCS,Mirpur,5,0,5 wickets,Ranmore Martinesz,Tanvir Ahmed
+2017/18,Final,Dec 12 2017,Rangpur Riders,206,1,Dhaka Dynamites,149,9,Chris Gayle,Dhaka Dynamites,field first,Riders,SBNCS,Mirpur,0,57,57 runs,Mahfuzur Rahman,Riazuddin
+2017/18,Qualifier,0 - 11 2017,Rangpur Riders,192,3,Comilla Victorians,156,10,Johnson Charles,Comilla Victorians,field first,Riders,SBNCS,Mirpur,0,36,36 runs,Gazi Sohel,Raveendra Wimalasiri
+2017/18,Qualifier,Dec 8 2017,Dhaka Dynamites,191,7,Comilla Victorians,96,10,Shahid Afridi,Dhaka Dynamites,bat first,Dynamites,SBNCS,Mirpur,0,95,95 runs,Mahfuzur Rahman,Masudur Rahman
+2017/18,"Eliminator,",Dec 8 2017,Khulna Titans,167,6,Rangpur Riders,171,2,Chris Gayle,Rangpur Riders,field first,Riders,SBNCS,Mirpur,8,0,8 wickets,Anisur Rahman,Masudur Rahman
+2017/18,42nd,Dec 6 2017,Comilla Victorians,170,4,Sylhet Sixers,145,7,Litton Das,Sylhet Sixers,field first,Victorians,SBNCS,Mirpur,0,25,25 runs,Akteruzzaman,Moniruzzaman
+2017/18,41st,Dec 6 2017,Dhaka Dynamites,137,7,Rangpur Riders,94,7,Shakib Al Hasan,Dhaka Dynamites,bat first,Dynamites,SBNCS,Mirpur,0,43,43 runs,Nadir Shah,Riazuddin
+2017/18,40th,Dec 5 2017,Chittagong Vikings,194,2,Rajshahi Kings,149,9,Luis Reece,Rajshahi Kings,field first,Vikings,SBNCS,Mirpur,0,45,45 runs,Mahfuzur Rahman,Shafiuddin Ahmed
+2017/18,39th,Dec 5 2017,Khulna Titans,174,6,Comilla Victorians,160,7,Ariful Haque,Khulna Titans,bat first,Titans,SBNCS,Mirpur,0,14,14 runs,Morshed Ali Khan,Riazuddin
+2017/18,38th,Dec 3 2017,Rangpur Riders,147,6,Khulna Titans,128,8,Mohammad Mithun,Khulna Titans,field first,Riders,SBNCS,Mirpur,0,19,19 runs,Masudur Rahman,Riazuddin
+2017/18,37th,Dec 3 2017,Chittagong Vikings,67,10,Sylhet Sixers,68,0,Nasir Hossain,Sylhet Sixers,field first,Sixers,SBNCS,Mirpur,10,0,10 wickets,Nadir Shah,Tanvir Ahmed
+2018/19,Final,Feb 8 2019,Comilla Victorians,199,3,Dhaka Dynamites,182,9,Tamim Iqbal,Dhaka Dynamites,field first,Victorians,SBNCS,Mirpur,0,17,17 runs,Alex Wharf,Ranmore Martinesz
+2018/19,2nd,Feb 6 2019,Rangpur Riders,142,10,Dhaka Dynamites,147,5,Rubel Hossain,Dhaka Dynamites,field first,Dynamites,SBNCS,Mirpur,5,0,5 wickets,Alex Wharf,Masudur Rahman
+2018/19,1st,Feb 4 2019,Rangpur Riders,165,5,Comilla Victorians,166,2,Evin Lewis,Rangpur Riders,bat first,Victorians,SBNCS,Mirpur,8,0,8 wickets,Alex Wharf,Sharfuddoula
+2018/19,"Eliminator,",Feb 4 2019,Chittagong Vikings,135,8,Dhaka Dynamites,136,4,Sunil Narine,Chittagong Vikings,bat first,Dynamites,SBNCS,Mirpur,6,0,6 wickets,Mahfuzur Rahman,Ranmore Martinesz
+2018/19,42nd,Feb 2 2019,Khulna Titans,123,9,Dhaka Dynamites,124,4,Upul Tharanga,Khulna Titans,bat first,Dynamites,SBNCS,Mirpur,6,0,6 wickets,Nadir Shah,Ranmore Martinesz
+2018/19,41st,Feb 2 2019,Comilla Victorians,72,10,Rangpur Riders,76,1,Ravi Bopara,Comilla Victorians,bat first,Riders,SBNCS,Mirpur,9,0,9 wickets,Minhajul Abedin Afridi,Sanjit Saha
+2018/19,40th,Feb 1 2019,Sylhet Sixers,165,5,Chittagong Vikings,136,10,Ebadot Hossain,Chittagong Vikings,field first,Sixers,SBNCS,Mirpur,0,29,29 runs,Nadir Shah,Shozab Raza
+2018/19,39th,Feb 1 2019,Comilla Victorians,127,10,Dhaka Dynamites,126,9,Mohammad Saifuddin,Dhaka Dynamites,field first,Victorians,SBNCS,Mirpur,0,0,1 run,Alex Wharf,Masudur Rahman
+2018/19,38th,Jan 30 2019,Sylhet Sixers,189,5,Rajshahi Kings,190,5,Laurie Evans,Sylhet Sixers,bat first,Kings,ZACS,Chattogram,5,0,5 wickets,Ranmore Martinesz,Tanvir Ahmed
+2018/19,37th,Jan 30 2019,Chittagong Vikings,174,5,Dhaka Dynamites,163,9,Cameron Delport,Chittagong Vikings,bat first,Vikings,ZACS,Chattogram,0,11,11 runs,Mahfuzur Rahman,Shozab Raza
+2019/20,Final,Jan 17 2020,Rajshahi Royals,170,4,Khulna Tigers,149,8,Andre Russell,Khulna Tigers,field first,Royals,SBNCS,Mirpur,0,21,21 runs,David Millns,Gazi Sohel
+2019/20,2nd,Jan 15 2020,Chattogram Challengers,164,9,Rajshahi Royals,165,8,Andre Russell,Rajshahi Royals,field first,Royals,SBNCS,Mirpur,2,0,2 wickets,David Millns,Mahfuzur Rahman
+2019/20,1st,Jan 13 2020,Khulna Tigers,158,3,Rajshahi Royals,131,10,Mohammad Amir,Rajshahi Royals,field first,Tigers,SBNCS,Mirpur,0,27,27 runs,Gazi Sohel,Prageeth Rambukwella
+2019/20,"Eliminator,",Jan 13 2020,Dhaka Platoon,144,8,Chattogram Challengers,147,3,Rayad Emrit,Chattogram Challengers,field first,Challengers,SBNCS,Mirpur,7,0,7 wickets,David Millns,Mahfuzur Rahman
+2019/20,42nd,Jan 11 2020,Dhaka Platoon,205,4,Khulna Tigers,207,2,Najmul Hossain Shanto,Khulna Tigers,field first,Tigers,SBNCS,Mirpur,8,0,8 wickets,David Millns,Mahfuzur Rahman
+2019/20,41st,Jan 11 2020,Chattogram Challengers,155,5,Rajshahi Royals,156,2,Litton Das,Rajshahi Royals,field first,Royals,SBNCS,Mirpur,8,0,8 wickets,Prageeth Rambukwella,Tanvir Ahmed
+2019/20,40th,Jan 10 2020,Khulna Tigers,218,2,Cumilla Warriors,126,9,Mushfiqur Rahim,Cumilla Warriors,field first,Tigers,SBNCS,Mirpur,0,92,92 runs,Gazi Sohel,Prageeth Rambukwella
+2019/20,39th,Jan 10 2020,Rangpur Rangers,149,9,Dhaka Platoon,138,9,Lewis Gregory,Dhaka Platoon,field first,Rangers,SBNCS,Mirpur,0,11,11 runs,David Millns,Tanvir Ahmed
+2019/20,38th,Jan 8 2020,Dhaka Platoon,145,9,Rangpur Rangers,84,10,Shadab Khan,Rangpur Rangers,field first,Platoon,SBNCS,Mirpur,0,61,61 runs,Mahfuzur Rahman,Prageeth Rambukwella
+2019/20,37th,Jan 8 2020,Khulna Tigers,179,2,Cumilla Warriors,145,10,Robbie Frylinck,Cumilla Warriors,field first,Tigers,SBNCS,Mirpur,0,34,34 runs,David Millns,Gazi Sohel
+2021/22,18th,Feb 3 2022,Chattogram Challengers,138,8,Comilla Victorians,148,1,Mustafizur Rahman,Comilla Victorians,field first,Victorians,SBNCS,Mirpur,9,0,9 wickets,Mahfuzur Rahman,Prageeth Rambukwella
+2021/22,17th,Feb 3 2022,Sylhet Sunrisers,142,5,Khulna Tigers,144,1,Andre Fletcher,Khulna Tigers,field first,Tigers,SBNCS,Mirpur,9,0,9 wickets,Masudur Rahman,Morshed Ali Khan
+2021/22,16th,Feb 1 2022,Fortune Barishal,149,10,Chattogram Challengers,135,10,Shakib Al Hasan,Fortune Barishal,bat first,Barishal,ZACS,Chattogram,0,14,14 runs,Mahfuzur Rahman,Masudur Rahman
+2021/22,15th,Feb 1 2022,Minister Group Dhaka,181,6,Comilla Victorians,131,10,Mahmudullah,Comilla Victorians,field first,Dhaka,ZACS,Chattogram,0,50,50 runs,Prageeth Rambukwella,Tanvir Ahmed
+2021/22,14th,Jan 31 2022,Fortune Barishal,145,10,Khulna Tigers,139,6,Shakib Al Hasan,Fortune Barishal,bat first,Barishal,ZACS,Chattogram,0,6,6 runs,Mahfuzur Rahman,Prageeth Rambukwella
+2021/22,13th,Jan 31 2022,Comilla Victorians,183,3,Chattogram Challengers,131,10,Faf du Plessis,Chattogram Challengers,field first,Victorians,ZACS,Chattogram,0,52,52 runs,Morshed Ali Khan,Sharfuddoula
+2021/22,12th,Jan 29 2022,Chattogram Challengers,202,5,Sylhet Sunrisers,186,6,Mrittunjoy Chowdhury,Sylhet Sunrisers,field first,Challengers,ZACS,Chattogram,0,16,16 runs,Mahfuzur Rahman,Sharfuddoula
+2021/22,11th,Jan 29 2022,Fortune Barishal,141,9,Khulna Tigers,124,10,Mehedi Hasan Rana,Khulna Tigers,field first,Barishal,ZACS,Chattogram,0,17,17 runs,Morshed Ali Khan,Prageeth Rambukwella
+2012/13,37th,Feb 12 2013,Sylhet Royals,196,3,Khulna Royal Bengals,135,7,Paul Stirling,Khulna Royal Bengals,field first,Royals,SBNCS,Mirpur,0,61,61 runs,Jeremy Lloyds,Tanvir Ahmed
+2012/13,36th,Feb 11 2013,Rangpur Riders,179,8,Duronto Rajshahi,160,10,Kevin O'Brien,Duronto Rajshahi,field first,Riders,SBNCS,Mirpur,0,19,19 runs,Enamul Haque,Jeremy Lloyds
+2012/13,35th,Feb 11 2013,Khulna Royal Bengals,176,6,Dhaka Gladiators,180,4,Mohammad Ashraful,Khulna Royal Bengals,bat first,Dhaka,SBNCS,Mirpur,6,0,6 wickets,Gazi Sohel,Jeremy Lloyds
+2012/13,34th,Feb 9 2013,Barisal Burners,114,9,Dhaka Gladiators,115,2,Shakib Al Hasan,Barisal Burners,bat first,Dhaka,SBNCS,Mirpur,8,0,8 wickets,Jeremy Lloyds,Masudur Rahman
+2012/13,33rd,Feb 9 2013,Chittagong Kings,160,6,Rangpur Riders,161,5,Danza Hyatt,Rangpur Riders,field first,Riders,SBNCS,Mirpur,5,0,5 wickets,Enamul Haque,Richard Illingworth
+2012/13,32nd,Feb 8 2013,Chittagong Kings,193,4,Sylhet Royals,74,10,Brendan Taylor,Sylhet Royals,field first,Chittagong,SBNCS,Mirpur,0,119,119 runs,Gazi Sohel,Richard Illingworth
+2012/13,31st,Feb 8 2013,Duronto Rajshahi,138,9,Khulna Royal Bengals,140,3,Shahriar Nafees,Duronto Rajshahi,bat first,Khulna,SBNCS,Mirpur,7,0,7 wickets,Enamul Haque,Jeremy Lloyds
+2012/13,30th,Feb 7 2013,Rangpur Riders,197,4,Sylhet Royals,198,4,Shamsur Rahman,Sylhet Royals,field first,Royals,SBNCS,Mirpur,6,0,6 wickets,Enamul Haque,Richard Illingworth
+2012/13,29th,Feb 7 2013,Chittagong Kings,156,5,Khulna Royal Bengals,67,10,Ryan ten Doeschate,Khulna Royal Bengals,field first,Chittagong,SBNCS,Mirpur,0,89,89 runs,Jeremy Lloyds,Masudur Rahman
+2012/13,28th,Feb 5 2013,Dhaka Gladiators,217,4,Rangpur Riders,129,10,Anamul Haque,Rangpur Riders,field first,Dhaka,SBNCS,Mirpur,0,88,88 runs,Enamul Haque,Tanvir Ahmed
+2012/13,27th,Feb 5 2013,Sylhet Royals,147,8,Duronto Rajshahi,152,5,Jahurul Islam,Duronto Rajshahi,field first,Rajshahi,SBNCS,Mirpur,5,0,5 wickets,Enamul Haque,Masudur Rahman
+2012/13,26th,Feb 4 2013,Khulna Royal Bengals,145,7,Barisal Burners,148,3,Azhar Mahmood,Barisal Burners,field first,Barisal,SBNCS,Mirpur,7,0,7 wickets,Gazi Sohel,Jeremy Lloyds
+2012/13,25th,Feb 4 2013,Rangpur Riders,163,3,Duronto Rajshahi,168,3,Tamim Iqbal,Rangpur Riders,bat first,Rajshahi,SBNCS,Mirpur,7,0,7 wickets,Enamul Haque,Richard Illingworth
+2012/13,24th,Feb 2 2013,Chittagong Kings,142,10,Dhaka Gladiators,88,8,Naeem Islam,Dhaka Gladiators,field first,Chittagong,MAAziz,Chattogram,0,54,54 runs,Mahfuzur Rahman,Masudur Rahman
+2012/13,23rd,Feb 2 2013,Barisal Burners,152,6,Duronto Rajshahi,153,6,Jahurul Islam,Barisal Burners,bat first,Rajshahi,MAAziz,Chattogram,4,0,4 wickets,Gazi Sohel,Jeremy Lloyds
+2012/13,22nd,Feb 1 2013,Khulna Royal Bengals,136,5,Chittagong Kings,137,2,Brendan Taylor,Chittagong Kings,field first,Chittagong,MAAziz,Chattogram,8,0,8 wickets,Mahfuzur Rahman,Masudur Rahman
+2012/13,21st,Feb 1 2013,Dhaka Gladiators,137,5,Duronto Rajshahi,124,9,Alfonso Thomas,Dhaka Gladiators,bat first,Dhaka,MAAziz,Chattogram,0,13,13 runs,Gazi Sohel,Jeremy Lloyds
+2012/13,20th,Jan 31 2013,Barisal Burners,182,5,Chittagong Kings,176,6,Azhar Mahmood,Barisal Burners,bat first,Barisal,MAAziz,Chattogram,0,6,6 runs,Anisur Rahman,Tanvir Ahmed
+2012/13,19th,Jan 31 2013,Rangpur Riders,122,10,Sylhet Royals,126,5,Nazmul Hossain Milon,Sylhet Royals,field first,Royals,MAAziz,Chattogram,5,0,5 wickets,Jeremy Lloyds,Tanvir Ahmed
+2012/13,18th,Jan 29 2013,Rangpur Riders,122,10,Khulna Royal Bengals,89,10,Fidel Edwards,Rangpur Riders,bat first,Riders,MAAziz,Chattogram,0,33,33 runs,Anisur Rahman,Mahfuzur Rahman
+2012/13,17th,Jan 29 2013,Dhaka Gladiators,158,5,Sylhet Royals,127,8,Darren Stevens,Sylhet Royals,field first,Dhaka,MAAziz,Chattogram,0,31,31 runs,Jeremy Lloyds,Masudur Rahman
+2012/13,16th,Jan 28 2013,Duronto Rajshahi,213,6,Barisal Burners,209,7,Charles Coventry,Duronto Rajshahi,bat first,Rajshahi,MAAziz,Chattogram,0,4,4 runs,Anisur Rahman,Gazi Sohel
+2012/13,15th,Jan 28 2013,Chittagong Kings,172,6,Sylhet Royals,176,7,Mohammad Nabi,Sylhet Royals,field first,Royals,MAAziz,Chattogram,3,0,3 wickets,Jeremy Lloyds,Tanvir Ahmed
+2012/13,14th,Jan 25 2013,Khulna Royal Bengals,150,7,Rangpur Riders,141,7,Daniel Harris,Khulna Royal Bengals,bat first,Khulna,SAbuNaserK,Khulna,0,9,9 runs,Mahfuzur Rahman,Masudur Rahman
+2012/13,13th,Jan 25 2013,Dhaka Gladiators,152,8,Sylhet Royals,157,3,Mushfiqur Rahim,Dhaka Gladiators,bat first,Royals,SAbuNaserK,Khulna,7,0,7 wickets,Mahfuzur Rahman,Richard Illingworth
+2012/13,12th,Jan 24 2013,Khulna Royal Bengals,197,0,Duronto Rajshahi,129,10,Shahriar Nafees,Duronto Rajshahi,field first,Khulna,SAbuNaserK,Khulna,0,68,68 runs,Anisur Rahman,Tanvir Ahmed
+2012/13,11th,Jan 24 2013,Chittagong Kings,129,7,Barisal Burners,108,9,Ravi Bopara,Barisal Burners,field first,Chittagong,SAbuNaserK,Khulna,0,21,21 runs,Gazi Sohel,Richard Illingworth
+2012/13,10th,Jan 23 2013,Khulna Royal Bengals,145,7,Sylhet Royals,146,4,Hamilton Masakadza,Khulna Royal Bengals,bat first,Royals,SAbuNaserK,Khulna,6,0,6 wickets,Anisur Rahman,Mahfuzur Rahman
+2012/13,9th,Jan 23 2013,Rangpur Riders,174,4,Barisal Burners,167,8,Shamsur Rahman,Rangpur Riders,bat first,Riders,SAbuNaserK,Khulna,0,7,7 runs,Mahfuzur Rahman,Richard Illingworth
+2012/13,8th,Jan 22 2013,Dhaka Gladiators,156,8,Duronto Rajshahi,143,3,Shakib Al Hasan,Dhaka Gladiators,bat first,Dhaka,SAbuNaserK,Khulna,0,13,13 runs,Gazi Sohel,Masudur Rahman
+2012/13,7th,Jan 22 2013,Chittagong Kings,132,5,Rangpur Riders,135,4,Nasir Hossain,Chittagong Kings,bat first,Riders,SAbuNaserK,Khulna,6,0,6 wickets,Anisur Rahman,Richard Illingworth
+2012/13,6th,Jan 20 2013,Duronto Rajshahi,147,8,Sylhet Royals,150,6,Elton Chigumbura,Duronto Rajshahi,bat first,Royals,SBNCS,Mirpur,4,0,4 wickets,Jeremy Lloyds,Tanvir Ahmed
+2012/13,5th,Jan 20 2013,Khulna Royal Bengals,142,8,Barisal Burners,146,2,Brad Hodge,Khulna Royal Bengals,bat first,Barisal,SBNCS,Mirpur,8,0,8 wickets,Anisur Rahman,Richard Illingworth
+2012/13,4th,Jan 19 2013,Dhaka Gladiators,202,5,Rangpur Riders,167,4,Mohammad Ashraful,Dhaka Gladiators,bat first,Dhaka,SBNCS,Mirpur,0,35,35 runs,Amit Kumar,Mehedi Maruf
+2012/13,3rd,Jan 19 2013,Duronto Rajshahi,99,9,Chittagong Kings,97,10,Sean Ervine,Duronto Rajshahi,bat first,Rajshahi,SBNCS,Mirpur,0,2,2 runs,Jeremy Lloyds,Mahfuzur Rahman
+2012/13,2nd,Jan 18 2013,Sylhet Royals,175,7,Barisal Burners,142,9,Paul Stirling,Barisal Burners,field first,Royals,SBNCS,Mirpur,0,33,33 runs,Bishawnath Halder,Jubair Ahmed
+2012/13,1st,Jan 18 2013,Dhaka Gladiators,204,4,Khulna Royal Bengals,142,8,Owais Shah,Dhaka Gladiators,bat first,Dhaka,SBNCS,Mirpur,0,62,62 runs,Masudur Rahman,Richard Illingworth
+2015/16,24th,Dec 7 2015,Sylhet Super Stars,59,10,Rangpur Riders,60,2,Arafat Sunny,Rangpur Riders,field first,Riders,SBNCS,Mirpur,8,0,8 wickets,Anisur Rahman,Gazi Sohel
+2015/16,23rd,Dec 7 2015,Barisal Bulls,105,6,Comilla Victorians,106,3,Ahmed Shehzad,Comilla Victorians,field first,Victorians,SBNCS,Mirpur,7,0,7 wickets,Ahsan Raza,Masudur Rahman
+2015/16,22nd,Dec 6 2015,Dhaka Dynamites,135,7,Rangpur Riders,136,4,Jahurul Islam,Dhaka Dynamites,bat first,Riders,SBNCS,Mirpur,6,0,6 wickets,Ahsan Raza,Enamul Haque
+2015/16,21st,Dec 6 2015,Barisal Bulls,58,10,Sylhet Super Stars,62,1,Junaid Siddique,Sylhet Super Stars,field first,Super,SBNCS,Mirpur,0,0,by 9,Gazi Sohel,Ranmore Martinesz
+2015/16,20th,Dec 3 2015,Chittagong Vikings,136,5,Comilla Victorians,142,5,Shoaib Malik,Comilla Victorians,field first,Victorians,ZACS,Chattogram,5,0,5 wickets,Mahfuzur Rahman,Morshed Ali Khan
+2015/16,19th,Dec 3 2015,Rangpur Riders,104,9,Barisal Bulls,75,4,Al-Amin Hossain,Barisal Bulls,field first,Bulls,ZACS,Chattogram,6,0,6 wickets,Anisur Rahman,Ranmore Martinesz
+2015/16,18th,Dec 2 2015,Sylhet Super Stars,139,9,Chittagong Vikings,140,0,Tillakaratne Dilshan,Chittagong Vikings,field first,Vikings,ZACS,Chattogram,10,0,10 wickets,Anisur Rahman,Morshed Ali Khan
+2015/16,17th,Dec 2 2015,Comilla Victorians,141,7,Dhaka Dynamites,131,6,Ashar Zaidi,Dhaka Dynamites,field first,Victorians,ZACS,Chattogram,0,10,10 runs,Mahfuzur Rahman,Tanvir Ahmed
+2015/16,16th,Dec 1 2015,Dhaka Dynamites,158,5,Barisal Bulls,159,1,Evin Lewis,Barisal Bulls,field first,Bulls,ZACS,Chattogram,9,0,9 wickets,Enamul Haque,Ranmore Martinesz
+2015/16,15th,Dec 1 2015,Chittagong Vikings,111,8,Rangpur Riders,113,1,Soumya Sarkar,Chittagong Vikings,bat first,Riders,ZACS,Chattogram,9,0,9 wickets,Enamul Haque,Sharfuddoula
+2015/16,14th,Nov 30 2015,Comilla Victorians,164,5,Sylhet Super Stars,168,6,Ravi Bopara,Sylhet Super Stars,field first,Super,ZACS,Chattogram,0,0,by 4,Enamul Haque,Sharfuddoula
+2015/16,13th,Nov 30 2015,Barisal Bulls,170,7,Chittagong Vikings,137,10,Kevon Cooper,Chittagong Vikings,field first,Bulls,ZACS,Chattogram,0,33,33 runs,Ranmore Martinesz,Sharfuddoula
+2015/16,12th,Nov 27 2015,Dhaka Dynamites,166,6,Sylhet Super Stars,132,10,Kumar Sangakkara,Dhaka Dynamites,bat first,Dynamites,SBNCS,Mirpur,0,34,34 runs,Mahfuzur Rahman,Tanvir Ahmed
+2015/16,11th,Nov 27 2015,Rangpur Riders,82,10,Comilla Victorians,84,1,Marlon Samuels,Comilla Victorians,field first,Victorians,SBNCS,Mirpur,9,0,9 wickets,Mahfuzur Rahman,Masudur Rahman
+2015/16,10th,Nov 26 2015,Chittagong Vikings,92,10,Dhaka Dynamites,96,4,Shadman Islam,Chittagong Vikings,bat first,Dynamites,SBNCS,Mirpur,6,0,6 wickets,Ranmore Martinesz,Sharfuddoula
+2015/16,9th,Nov 26 2015,Rangpur Riders,109,9,Sylhet Super Stars,103,10,Shakib Al Hasan,Rangpur Riders,bat first,Riders,SBNCS,Mirpur,0,6,6 runs,Sharfuddoula,Tanvir Ahmed
+2015/16,8th,Nov 25 2015,Barisal Bulls,89,10,Comilla Victorians,90,2,Nuwan Kulasekara,Barisal Bulls,bat first,Victorians,SBNCS,Mirpur,8,0,8 wickets,Masudur Rahman,Tanvir Ahmed
+2015/16,7th,Nov 25 2015,Rangpur Riders,176,6,Dhaka Dynamites,107,10,Shakib Al Hasan,Rangpur Riders,bat first,Riders,SBNCS,Mirpur,0,69,69 runs,Enamul Haque,Mahfuzur Rahman
+2015/16,6th,Nov 24 2015,Barisal Bulls,108,10,Sylhet Super Stars,107,9,Al-Amin Hossain,Barisal Bulls,bat first,Bulls,SBNCS,Mirpur,0,0,1 run,Anisur Rahman,Masudur Rahman
+2015/16,5th,Nov 24 2015,Chittagong Vikings,176,4,Comilla Victorians,177,3,Mashrafe Mortaza,Comilla Victorians,field first,Victorians,SBNCS,Mirpur,7,0,7 wickets,Anisur Rahman,Ranmore Martinesz
+2015/16,4th,Nov 23 2015,Barisal Bulls,155,9,Rangpur Riders,142,10,Kevon Cooper,Rangpur Riders,field first,Bulls,SBNCS,Mirpur,0,13,13 runs,Enamul Haque,Masudur Rahman
+2015/16,3rd,Nov 23 2015,Chittagong Vikings,180,5,Sylhet Super Stars,179,6,Shafiul Islam,Sylhet Super Stars,field first,Vikings,SBNCS,Mirpur,0,0,1 run,Masudur Rahman,Sharfuddoula
+2015/16,2nd,Nov 22 2015,Comilla Victorians,110,8,Dhaka Dynamites,112,4,Abul Hasan,Comilla Victorians,bat first,Dynamites,SBNCS,Mirpur,6,0,6 wickets,Enamul Haque,Ranmore Martinesz
+2015/16,1st,Nov 22 2015,Chittagong Vikings,187,7,Rangpur Riders,188,8,Misbah-ul-Haq,Chittagong Vikings,bat first,Riders,SBNCS,Mirpur,2,0,2 wickets,Enamul Haque,Sharfuddoula
+2016/17,36th,Dec 1 2016,Barisal Bulls,161,4,Rajshahi Kings,144,7,Rayad Emrit,Rajshahi Kings,field first,Bulls,SBNCS,Mirpur,0,17,17 runs,Mahfuzur Rahman,Ranmore Martinesz
+2016/17,35th,Nov 30 2016,Rajshahi Kings,124,7,Comilla Victorians,125,2,Mohammad Saifuddin,Rajshahi Kings,bat first,Victorians,SBNCS,Mirpur,8,0,8 wickets,Masudur Rahman,Rashid Riaz
+2016/17,34th,Nov 30 2016,Dhaka Dynamites,188,7,Rangpur Riders,146,8,Evin Lewis,Dhaka Dynamites,bat first,Dynamites,SBNCS,Mirpur,0,42,42 runs,Khalid Mahmood,Nadir Shah
+2016/17,33rd,Nov 29 2016,Khulna Titans,131,8,Chittagong Vikings,135,5,Tamim Iqbal,Khulna Titans,bat first,Vikings,SBNCS,Mirpur,5,0,5 wickets,Gazi Sohel,Ranmore Martinesz
+2016/17,32nd,Nov 29 2016,Barisal Bulls,142,8,Comilla Victorians,145,2,Nabil Samad,Barisal Bulls,bat first,Victorians,SBNCS,Mirpur,8,0,8 wickets,Khalid Mahmood,Mahfuzur Rahman
+2016/17,31st,Nov 28 2016,Rajshahi Kings,128,7,Rangpur Riders,79,10,Mehidy Hasan Miraz,Rajshahi Kings,bat first,Kings,SBNCS,Mirpur,0,49,49 runs,Gazi Sohel,Rashid Riaz
+2016/17,30th,Nov 27 2016,Rangpur Riders,124,6,Chittagong Vikings,128,1,Tamim Iqbal,Rangpur Riders,bat first,Vikings,SBNCS,Mirpur,9,0,9 wickets,Nadir Shah,Ranmore Martinesz
+2016/17,29th,Nov 27 2016,Barisal Bulls,132,6,Dhaka Dynamites,135,6,Shakib Al Hasan,Barisal Bulls,bat first,Dynamites,SBNCS,Mirpur,4,0,4 wickets,Khalid Mahmood,Masudur Rahman
+2016/17,28th,Nov 26 2016,Rajshahi Kings,154,8,Khulna Titans,145,6,Daren Sammy,Rajshahi Kings,bat first,Kings,SBNCS,Mirpur,0,9,9 runs,Mahfuzur Rahman,Rashid Riaz
+2016/17,27th,Nov 26 2016,Dhaka Dynamites,170,4,Comilla Victorians,138,8,Shakib Al Hasan,Dhaka Dynamites,bat first,Dynamites,SBNCS,Mirpur,0,32,32 runs,Khalid Mahmood,Nadir Shah
+2016/17,26th,Nov 25 2016,Barisal Bulls,119,5,Khulna Titans,120,4,Shuvagata Hom,Barisal Bulls,bat first,Titans,SBNCS,Mirpur,6,0,6 wickets,Anisur Rahman,Khalid Mahmood
+2016/17,25th,Nov 25 2016,Rajshahi Kings,162,5,Rangpur Riders,150,5,Daren Sammy,Rangpur Riders,field first,Kings,SBNCS,Mirpur,0,12,12 runs,Ranmore Martinesz,Sharfuddoula
+2016/17,24th,Nov 22 2016,Chittagong Vikings,185,5,Barisal Bulls,107,10,Shoaib Malik,Chittagong Vikings,bat first,Vikings,ZACS,Chattogram,0,78,78 runs,Gazi Sohel,Ranmore Martinesz
+2016/17,23rd,Nov 22 2016,Khulna Titans,125,7,Rangpur Riders,129,3,Shahid Afridi,Khulna Titans,bat first,Riders,ZACS,Chattogram,7,0,7 wickets,Khalid Mahmood,Morshed Ali Khan
+2016/17,22nd,Nov 21 2016,Comilla Victorians,183,3,Chittagong Vikings,186,4,Mohammad Nabi,Comilla Victorians,bat first,Vikings,ZACS,Chattogram,6,0,6 wickets,Habibur Rahman,Shohidul Islam
+2016/17,21st,Nov 21 2016,Dhaka Dynamites,182,4,Rajshahi Kings,184,7,Samit Patel,Dhaka Dynamites,bat first,Kings,ZACS,Chattogram,3,0,3 wickets,Nadir Shah,Ranmore Martinesz
+2016/17,20th,Nov 20 2016,Khulna Titans,151,7,Barisal Bulls,129,10,Mahmudullah,Barisal Bulls,field first,Titans,ZACS,Chattogram,0,22,22 runs,Gazi Sohel,Ranmore Martinesz
+2016/17,19th,Nov 19 2016,Comilla Victorians,152,5,Rajshahi Kings,120,10,Sohail Tanvir,Rajshahi Kings,field first,Victorians,ZACS,Chattogram,0,32,32 runs,Nadir Shah,Ranmore Martinesz
+2016/17,18th,Nov 19 2016,Khulna Titans,157,5,Dhaka Dynamites,148,10,Mosharraf Hossain,Khulna Titans,bat first,Titans,ZACS,Chattogram,0,9,9 runs,Khalid Mahmood,Masudur Rahman
+2016/17,17th,Nov 18 2016,Comilla Victorians,122,5,Rangpur Riders,126,1,Mohammad Shahzad,Rangpur Riders,field first,Riders,ZACS,Chattogram,9,0,9 wickets,Ranmore Martinesz,Tanvir Ahmed
+2016/17,16th,Nov 18 2016,Chittagong Vikings,190,5,Rajshahi Kings,171,9,Mohammad Nabi,Rajshahi Kings,field first,Vikings,ZACS,Chattogram,0,19,19 runs,Khalid Mahmood,Nadir Shah
+2016/17,15th,Nov 17 2016,Rangpur Riders,175,6,Barisal Bulls,163,10,Mohammad Mithun,Barisal Bulls,field first,Riders,ZACS,Chattogram,0,12,12 runs,Khalid Mahmood,Masudur Rahman
+2016/17,14th,Nov 17 2016,Dhaka Dynamites,148,9,Chittagong Vikings,129,8,Mohammad Shahid,Chittagong Vikings,field first,Dynamites,ZACS,Chattogram,0,19,19 runs,Nadir Shah,Ranmore Martinesz
+2016/17,13th,Nov 14 2016,Dhaka Dynamites,194,5,Comilla Victorians,161,9,Mehedi Maruf,Comilla Victorians,field first,Dynamites,SBNCS,Mirpur,0,33,33 runs,Nadir Shah,Ranmore Martinesz
+2016/17,12th,Nov 14 2016,Chittagong Vikings,163,3,Barisal Bulls,167,3,Dawid Malan,Barisal Bulls,field first,Bulls,SBNCS,Mirpur,7,0,7 wickets,Khalid Mahmood,Tanvir Ahmed
+2016/17,11th,Nov 13 2016,Khulna Titans,144,9,Comilla Victorians,131,9,Shafiul Islam,Comilla Victorians,field first,Titans,SBNCS,Mirpur,0,13,13 runs,Ranmore Martinesz,Sharfuddoula
+2016/17,10th,Nov 13 2016,Barisal Bulls,192,4,Rajshahi Kings,188,6,Sabbir Rahman,Rajshahi Kings,field first,Bulls,SBNCS,Mirpur,0,4,4 runs,Anisur Rahman,Khalid Mahmood
+2016/17,9th,Nov 12 2016,Dhaka Dynamites,170,6,Rangpur Riders,92,10,Mosaddek Hossain,Rangpur Riders,field first,Dynamites,SBNCS,Mirpur,0,78,78 runs,Khalid Mahmood,Nadir Shah
+2016/17,8th,Nov 12 2016,Khulna Titans,127,7,Chittagong Vikings,123,9,Mahmudullah,Chittagong Vikings,field first,Titans,SBNCS,Mirpur,0,4,4 runs,Mahfuzur Rahman,Ranmore Martinesz
+2016/17,7th,Nov 11 2016,Dhaka Dynamites,138,5,Rajshahi Kings,139,4,Samit Patel,Rajshahi Kings,field first,Kings,SBNCS,Mirpur,6,0,6 wickets,Khalid Mahmood,Masudur Rahman
+2016/17,6th,Nov 11 2016,Comilla Victorians,129,8,Barisal Bulls,130,4,Thisara Perera,Comilla Victorians,bat first,Bulls,SBNCS,Mirpur,6,0,6 wickets,Nadir Shah,Ranmore Martinesz
+2016/17,5th,Nov 10 2016,Khulna Titans,44,10,Rangpur Riders,45,1,Shahid Afridi,Rangpur Riders,field first,Riders,SBNCS,Mirpur,9,0,9 wickets,Mahfuzur Rahman,Ranmore Martinesz
+2016/17,4th,Nov 9 2016,Chittagong Vikings,124,10,Rangpur Riders,125,1,Mohammad Shahzad,Rangpur Riders,field first,Riders,SBNCS,Mirpur,9,0,9 wickets,Khalid Mahmood,Nadir Shah
+2016/17,3rd,Nov 9 2016,Khulna Titans,133,8,Rajshahi Kings,130,10,Mahmudullah,Khulna Titans,bat first,Titans,SBNCS,Mirpur,0,3,3 runs,Abdul Mazid,Mehidy Hasan Miraz
+2016/17,2nd,Nov 8 2016,Barisal Bulls,148,6,Dhaka Dynamites,149,2,Mehedi Maruf,Dhaka Dynamites,field first,Dynamites,SBNCS,Mirpur,8,0,8 wickets,Khalid Mahmood,Nadir Shah
+2016/17,1st,Nov 8 2016,Chittagong Vikings,161,3,Comilla Victorians,132,8,Mohammad Nabi,Comilla Victorians,field first,Vikings,SBNCS,Mirpur,0,29,29 runs,Nahidul Islam,Najmul Hossain Shanto
+2017/18,36th,Dec 2 2017,Dhaka Dynamites,205,5,Rajshahi Kings,106,10,Sunil Narine,Dhaka Dynamites,bat first,Dynamites,SBNCS,Mirpur,0,99,99 runs,Masudur Rahman,Riazuddin
+2017/18,35th,Dec 2 2017,Rangpur Riders,97,10,Comilla Victorians,100,6,Mahedi Hasan,Comilla Victorians,field first,Victorians,SBNCS,Mirpur,4,0,4 wickets,Nadir Shah,Ranmore Martinesz
+2017/18,34th,Nov 29 2017,Comilla Victorians,167,6,Dhaka Dynamites,155,8,Dwayne Bravo,Dhaka Dynamites,field first,Victorians,ZACS,Chattogram,0,12,12 runs,Nadir Shah,Riazuddin
+2017/18,33rd,Nov 29 2017,Rajshahi Kings,157,6,Chittagong Vikings,124,10,Daren Sammy,Rajshahi Kings,bat first,Kings,ZACS,Chattogram,0,33,33 runs,Nayeem Hasan,Qazi Onik
+2017/18,32nd,Nov 28 2017,Khulna Titans,111,10,Comilla Victorians,112,1,Shoaib Malik,Khulna Titans,bat first,Victorians,ZACS,Chattogram,9,0,9 wickets,Nadir Shah,Riazuddin
+2017/18,31st,Nov 28 2017,Sylhet Sixers,173,5,Rangpur Riders,177,6,Nazmul Islam,Rangpur Riders,field first,Riders,ZACS,Chattogram,4,0,4 wickets,Mahfuzur Rahman,Ranmore Martinesz
+2017/18,30th,Nov 27 2017,Khulna Titans,213,5,Rajshahi Kings,145,10,Nicholas Pooran,Rajshahi Kings,field first,Titans,ZACS,Chattogram,0,68,68 runs,Gazi Sohel,Mahfuzur Rahman
+2017/18,29th,Nov 27 2017,Chittagong Vikings,187,5,Dhaka Dynamites,191,3,Evin Lewis,Chittagong Vikings,bat first,Dynamites,ZACS,Chattogram,7,0,7 wickets,Nadir Shah,Riazuddin
+2017/18,28th,Nov 25 2017,Chittagong Vikings,176,7,Rangpur Riders,180,7,Mashrafe Mortaza,Rangpur Riders,field first,Riders,ZACS,Chattogram,3,0,3 wickets,Riazuddin,Tanvir Ahmed
+2017/18,27th,Nov 25 2017,Rajshahi Kings,185,7,Comilla Victorians,155,10,Daren Sammy,Rajshahi Kings,bat first,Kings,ZACS,Chattogram,0,30,30 runs,Anisur Rahman,Morshed Ali Khan
+2017/18,26th,Nov 24 2017,Chittagong Vikings,211,5,Sylhet Sixers,171,8,Sikandar Raza,Sylhet Sixers,field first,Vikings,ZACS,Chattogram,0,40,40 runs,Anisur Rahman,Tanvir Ahmed
+2017/18,25th,Nov 24 2017,Khulna Titans,158,8,Rangpur Riders,149,6,Mahmudullah,Rangpur Riders,field first,Titans,ZACS,Chattogram,0,9,9 runs,Morshed Ali Khan,Riazuddin
+2017/18,24th,Nov 21 2017,Rangpur Riders,142,10,Dhaka Dynamites,139,10,Chris Gayle,Dhaka Dynamites,field first,Riders,SBNCS,Mirpur,0,3,3 runs,Anisur Rahman,Riazuddin
+2017/18,23rd,Nov 21 2017,Rajshahi Kings,166,8,Khulna Titans,168,8,Ariful Haque,Khulna Titans,field first,Titans,SBNCS,Mirpur,2,0,2 wickets,Nadir Shah,Sharfuddoula
+2017/18,22nd,Nov 20 2017,Rangpur Riders,169,7,Sylhet Sixers,162,4,Chris Gayle,Sylhet Sixers,field first,Riders,SBNCS,Mirpur,0,7,7 runs,Anisur Rahman,Riazuddin
+2017/18,21st,Nov 20 2017,Dhaka Dynamites,128,10,Comilla Victorians,129,6,Hasan Ali,Dhaka Dynamites,bat first,Victorians,SBNCS,Mirpur,4,0,4 wickets,Masudur Rahman,Ranmore Martinesz
+2017/18,20th,Nov 18 2017,Comilla Victorians,153,6,Rangpur Riders,139,7,Mahedi Hasan,Rangpur Riders,field first,Victorians,SBNCS,Mirpur,0,14,14 runs,Mahfuzur Rahman,Ranmore Martinesz
+2017/18,19th,Nov 18 2017,Dhaka Dynamites,201,7,Rajshahi Kings,133,10,Evin Lewis,Rajshahi Kings,field first,Dynamites,SBNCS,Mirpur,0,68,68 runs,Nadir Shah,Riazuddin
+2017/18,18th,Nov 17 2017,Chittagong Vikings,160,5,Khulna Titans,164,5,Rilee Rossouw,Khulna Titans,field first,Titans,SBNCS,Mirpur,5,0,5 wickets,Nadir Shah,Riazuddin
+2017/18,17th,Nov 17 2017,Sylhet Sixers,146,6,Rajshahi Kings,150,3,Zakir Hasan,Rajshahi Kings,field first,Kings,SBNCS,Mirpur,7,0,7 wickets,Mahfuzur Rahman,Ranmore Martinesz
+2017/18,14th,Nov 14 2017,Chittagong Vikings,139,4,Comilla Victorians,140,4,Imrul Kayes,Comilla Victorians,field first,Victorians,SBNCS,Mirpur,6,0,6 wickets,Riazuddin,Sharfuddoula
+2017/18,13th,Nov 14 2017,Khulna Titans,156,5,Dhaka Dynamites,157,6,Jahurul Islam,Dhaka Dynamites,field first,Dynamites,SBNCS,Mirpur,4,0,4 wickets,Mahfuzur Rahman,Ranmore Martinesz
+2017/18,12th,Nov 12 2017,Rajshahi Kings,115,7,Comilla Victorians,120,1,Rashid Khan,Comilla Victorians,field first,Victorians,SBNCS,Mirpur,9,0,9 wickets,Masudur Rahman,Riazuddin
+2017/18,11th,Nov 12 2017,Khulna Titans,170,7,Chittagong Vikings,152,7,Abu Jayed,Chittagong Vikings,field first,Titans,SBNCS,Mirpur,0,18,18 runs,Mahfuzur Rahman,Ranmore Martinesz
+2017/18,10th,Nov 11 2017,Sylhet Sixers,101,9,Dhaka Dynamites,106,2,Shahid Afridi,Dhaka Dynamites,field first,Dynamites,SBNCS,Mirpur,8,0,8 wickets,Nadir Shah,Ranmore Martinesz
+2017/18,9th,Nov 11 2017,Rangpur Riders,134,5,Rajshahi Kings,138,2,Mominul Haque,Rangpur Riders,bat first,Kings,SBNCS,Mirpur,8,0,8 wickets,Anisur Rahman,Riazuddin
+2017/18,8th,Nov 8 2017,Sylhet Sixers,135,5,Khulna Titans,138,4,Mahmudullah,Khulna Titans,field first,Titans,SylhetICS,Sylhet,6,0,6 wickets,Anisur Rahman,Masudur Rahman
+2017/18,7th,Nov 8 2017,Chittagong Vikings,166,4,Rangpur Riders,155,8,Taskin Ahmed,Rangpur Riders,field first,Vikings,SylhetICS,Sylhet,0,11,11 runs,Riazuddin,Sharfuddoula
+2017/18,6th,Nov 7 2017,Sylhet Sixers,205,6,Rajshahi Kings,172,8,Danushka Gunathilaka,Rajshahi Kings,field first,Sixers,SylhetICS,Sylhet,0,33,33 runs,Anisur Rahman,Riazuddin
+2017/18,5th,Nov 7 2017,Chittagong Vikings,143,7,Comilla Victorians,144,2,Mohammad Saifuddin,Comilla Victorians,field first,Victorians,SylhetICS,Sylhet,8,0,8 wickets,Masudur Rahman,Sharfuddoula
+2017/18,4th,Nov 5 2017,Dhaka Dynamites,202,7,Khulna Titans,137,10,Cameron Delport,Khulna Titans,field first,Dynamites,SylhetICS,Sylhet,0,65,65 runs,Akteruzzaman,Riazuddin
+2017/18,3rd,Nov 5 2017,Comilla Victorians,145,6,Sylhet Sixers,148,6,Upul Tharanga,Sylhet Sixers,field first,Sixers,SylhetICS,Sylhet,4,0,4 wickets,Mahfuzur Rahman,Masudur Rahman
+2017/18,2nd,Nov 4 2017,Rajshahi Kings,154,8,Rangpur Riders,155,4,Ravi Bopara,Rangpur Riders,field first,Riders,SylhetICS,Sylhet,6,0,6 wickets,Mahfuzur Rahman,Tanvir Ahmed
+2017/18,1st,Nov 4 2017,Dhaka Dynamites,136,7,Sylhet Sixers,137,1,Upul Tharanga,Sylhet Sixers,field first,Sixers,SylhetICS,Sylhet,9,0,9 wickets,Masudur Rahman,Riazuddin
+2018/19,36th,Jan 29 2019,Rajshahi Kings,141,8,Rangpur Riders,145,4,Farhad Reza,Rajshahi Kings,bat first,Riders,ZACS,Chattogram,6,0,6 wickets,Alex Wharf,Masudur Rahman
+2018/19,35th,Jan 29 2019,Chittagong Vikings,116,8,Comilla Victorians,117,3,Shahid Afridi,Chittagong Vikings,bat first,Victorians,ZACS,Chattogram,7,0,7 wickets,Mahfuzur Rahman,Ranmore Martinesz
+2018/19,34th,Jan 28 2019,Dhaka Dynamites,186,6,Rangpur Riders,189,2,AB de Villiers,Dhaka Dynamites,bat first,Riders,ZACS,Chattogram,8,0,8 wickets,Masudur Rahman,Ranmore Martinesz
+2018/19,33rd,Jan 28 2019,Comilla Victorians,237,5,Khulna Titans,157,10,Evin Lewis,Khulna Titans,field first,Victorians,ZACS,Chattogram,0,80,80 runs,Shozab Raza,Tanvir Ahmed
+2018/19,32nd,Jan 26 2019,Rajshahi Kings,198,5,Chittagong Vikings,191,8,Mustafizur Rahman,Chittagong Vikings,field first,Kings,ZACS,Chattogram,0,7,7 runs,Sharfuddoula,Shozab Raza
+2018/19,31st,Jan 26 2019,Sylhet Sixers,195,4,Khulna Titans,137,10,Mohammad Nawaz,Sylhet Sixers,bat first,Sixers,ZACS,Chattogram,0,58,58 runs,Alex Wharf,Gazi Sohel
+2018/19,30th,Jan 25 2019,Rangpur Riders,239,4,Chittagong Vikings,167,8,Alex Hales,Chittagong Vikings,field first,Riders,ZACS,Chattogram,0,72,72 runs,Alex Wharf,Sharfuddoula
+2018/19,29th,Jan 25 2019,Sylhet Sixers,180,6,Rajshahi Kings,104,10,Sohail Tanvir,Rajshahi Kings,field first,Sixers,ZACS,Chattogram,0,76,76 runs,Morshed Ali Khan,Shozab Raza
+2018/19,28th,Jan 23 2019,Khulna Titans,170,9,Sylhet Sixers,149,7,David Wiese,Sylhet Sixers,field first,Titans,SBNCS,Mirpur,0,21,21 runs,Alex Wharf,Morshed Ali Khan
+2018/19,27th,Jan 23 2019,Rajshahi Kings,157,5,Chittagong Vikings,159,4,Mushfiqur Rahim,Chittagong Vikings,field first,Vikings,SBNCS,Mirpur,6,0,6 wickets,Nadir Shah,Ranmore Martinesz
+2018/19,26th,Jan 22 2019,Comilla Victorians,153,8,Dhaka Dynamites,146,9,Thisara Perera,Dhaka Dynamites,field first,Victorians,SBNCS,Mirpur,0,7,7 runs,Mahfuzur Rahman,Ranmore Martinesz
+2018/19,25th,Jan 22 2019,Khulna Titans,181,6,Rangpur Riders,183,4,Farhad Reza,Rangpur Riders,field first,Riders,SBNCS,Mirpur,6,0,6 wickets,Sharfuddoula,Shozab Raza
+2018/19,24th,Jan 21 2019,Dhaka Dynamites,139,9,Chittagong Vikings,145,7,Robbie Frylinck,Dhaka Dynamites,bat first,Vikings,SBNCS,Mirpur,3,0,3 wickets,Nadir Shah,Ranmore Martinesz
+2018/19,23rd,Jan 21 2019,Rajshahi Kings,176,3,Comilla Victorians,138,10,Laurie Evans,Comilla Victorians,field first,Kings,SBNCS,Mirpur,0,38,38 runs,Sharfuddoula,Shozab Raza
+2018/19,22nd,Jan 19 2019,Chittagong Vikings,214,4,Khulna Titans,188,8,Mushfiqur Rahim,Khulna Titans,field first,Vikings,SylhetICS,Sylhet,0,26,26 runs,Ranmore Martinesz,Tanvir Ahmed
+2018/19,21st,Jan 19 2019,Sylhet Sixers,194,4,Rangpur Riders,195,6,Rilee Rossouw,Rangpur Riders,field first,Riders,SylhetICS,Sylhet,4,0,4 wickets,Alex Wharf,Gazi Sohel
+2018/19,20th,Jan 18 2019,Khulna Titans,181,7,Comilla Victorians,186,7,Tamim Iqbal,Comilla Victorians,field first,Victorians,SylhetICS,Sylhet,3,0,3 wickets,Alex Wharf,Gazi Sohel
+2018/19,19th,Jan 18 2019,Sylhet Sixers,158,8,Dhaka Dynamites,163,4,Shakib Al Hasan,Sylhet Sixers,bat first,Dynamites,SylhetICS,Sylhet,6,0,6 wickets,Masudur Rahman,Ranmore Martinesz
+2018/19,18th,Jan 16 2019,Sylhet Sixers,187,5,Rangpur Riders,160,6,Litton Das,Rangpur Riders,field first,Sixers,SylhetICS,Sylhet,0,27,27 runs,Masudur Rahman,Ranmore Martinesz
+2018/19,17th,Jan 16 2019,Rajshahi Kings,136,6,Dhaka Dynamites,116,9,Arafat Sunny,Rajshahi Kings,bat first,Kings,SylhetICS,Sylhet,0,20,20 runs,Alex Wharf,Mahfuzur Rahman
+2018/19,16th,Jan 15 2019,Sylhet Sixers,68,10,Comilla Victorians,69,2,Mahedi Hasan,Comilla Victorians,field first,Victorians,SylhetICS,Sylhet,8,0,8 wickets,Masudur Rahman,Ranmore Martinesz
+2018/19,15th,Jan 15 2019,Khulna Titans,128,9,Rajshahi Kings,103,10,Taijul Islam,Khulna Titans,bat first,Titans,SylhetICS,Sylhet,0,25,25 runs,Alex Wharf,Tanvir Ahmed
+2018/19,14th,Jan 13 2019,Comilla Victorians,184,5,Chittagong Vikings,186,6,Mushfiqur Rahim,Chittagong Vikings,field first,Vikings,SBNCS,Mirpur,4,0,4 wickets,Alex Wharf,Nadir Shah
+2018/19,13th,Jan 13 2019,Rajshahi Kings,135,8,Rangpur Riders,130,6,Zakir Hasan,Rangpur Riders,field first,Kings,SBNCS,Mirpur,0,5,5 runs,Ranmore Martinesz,Sharfuddoula
+2018/19,12th,Jan 12 2019,Dhaka Dynamites,173,7,Sylhet Sixers,141,9,Rony Talukdar,Dhaka Dynamites,bat first,Dynamites,SBNCS,Mirpur,0,32,32 runs,Alex Wharf,Mahfuzur Rahman
+2018/19,11th,Jan 12 2019,Khulna Titans,151,6,Chittagong Vikings,151,8,Robbie Frylinck,Chittagong Vikings,field first,Match,SBNCS,Mirpur,0,0,won the,Morshed Ali Khan,Ranmore Martinesz
+2018/19,10th,Jan 11 2019,Rajshahi Kings,124,10,Comilla Victorians,130,5,Shahid Afridi,Comilla Victorians,field first,Victorians,SBNCS,Mirpur,5,0,5 wickets,Alex Wharf,Morshed Ali Khan
+2018/19,9th,Jan 11 2019,Dhaka Dynamites,183,9,Rangpur Riders,181,9,Al Islam,Rangpur Riders,field first,Dynamites,SBNCS,Mirpur,0,2,2 runs,Masudur Rahman,Ranmore Martinesz
+2018/19,8th,Jan 9 2019,Khulna Titans,117,9,Rajshahi Kings,118,3,Isuru Udana,Khulna Titans,bat first,Kings,SBNCS,Mirpur,7,0,7 wickets,Alex Wharf,Nadir Shah
+2018/19,7th,Jan 9 2019,Sylhet Sixers,168,5,Chittagong Vikings,163,7,Nicholas Pooran,Sylhet Sixers,bat first,Sixers,SBNCS,Mirpur,0,5,5 runs,Mahfuzur Rahman,Ranmore Martinesz
+2018/19,6th,Jan 8 2019,Comilla Victorians,63,10,Rangpur Riders,67,1,Mashrafe Mortaza,Rangpur Riders,field first,Riders,SBNCS,Mirpur,9,0,9 wickets,Mahfuzur Rahman,Ranmore Martinesz
+2018/19,5th,Jan 8 2019,Dhaka Dynamites,192,6,Khulna Titans,87,10,Hazratullah Zazai,Khulna Titans,field first,Dynamites,SBNCS,Mirpur,0,105,105 runs,Alex Wharf,Nadir Shah
+2018/19,4th,Jan 6 2019,Rangpur Riders,169,3,Khulna Titans,161,5,Rilee Rossouw,Khulna Titans,field first,Riders,SBNCS,Mirpur,0,8,8 runs,Alex Wharf,Sharfuddoula
+2018/19,3rd,Jan 6 2019,Sylhet Sixers,127,8,Comilla Victorians,130,6,Shahid Afridi,Comilla Victorians,field first,Victorians,SBNCS,Mirpur,4,0,4 wickets,Masudur Rahman,Ranmore Martinesz
+2018/19,2nd,Jan 5 2019,Dhaka Dynamites,189,5,Rajshahi Kings,106,10,Hazratullah Zazai,Rajshahi Kings,field first,Dynamites,SBNCS,Mirpur,0,83,83 runs,Masudur Rahman,Ranmore Martinesz
+2018/19,1st,Jan 5 2019,Rangpur Riders,98,10,Chittagong Vikings,101,7,Robbie Frylinck,Chittagong Vikings,field first,Vikings,SBNCS,Mirpur,3,0,3 wickets,Alex Wharf,Sharfuddoula
+2019/20,36th,Jan 7 2020,Rajshahi Royals,166,8,Chattogram Challengers,170,3,Imrul Kayes,Chattogram Challengers,field first,Challengers,SBNCS,Mirpur,7,0,7 wickets,David Millns,Morshed Ali Khan
+2019/20,35th,Jan 7 2020,Sylhet Thunder,141,5,Cumilla Warriors,142,5,Dawid Malan,Cumilla Warriors,field first,Warriors,SBNCS,Mirpur,5,0,5 wickets,Gazi Sohel,Prageeth Rambukwella
+2019/20,34th,Jan 4 2020,Sylhet Thunder,143,6,Rajshahi Royals,145,4,Afif Hossain,Sylhet Thunder,bat first,Royals,SylhetICS,Sylhet,6,0,6 wickets,Prageeth Rambukwella,Tanvir Ahmed
+2019/20,33rd,Jan 4 2020,Khulna Tigers,121,10,Chattogram Challengers,124,4,Mehedi Hasan Rana,Chattogram Challengers,field first,Challengers,SylhetICS,Sylhet,6,0,6 wickets,David Millns,Mahfuzur Rahman
+2019/20,32nd,Jan 3 2020,Rangpur Rangers,199,5,Sylhet Thunder,161,10,Shane Watson,Sylhet Thunder,field first,Rangers,SylhetICS,Sylhet,0,38,38 runs,David Millns,Gazi Sohel
+2019/20,31st,Jan 3 2020,Dhaka Platoon,172,4,Khulna Tigers,160,8,Hasan Mahmud,Khulna Tigers,field first,Platoon,SylhetICS,Sylhet,0,12,12 runs,Prageeth Rambukwella,Tanvir Ahmed
+2019/20,30th,Jan 2 2020,Cumilla Warriors,140,9,Sylhet Thunder,140,10,Mujeeb Ur Rahman,Sylhet Thunder,field first,Match,SylhetICS,Sylhet,0,0,won the,Masudur Rahman,Prageeth Rambukwella
+2019/20,29th,Jan 2 2020,Rajshahi Royals,179,4,Rangpur Rangers,149,7,Ravi Bopara,Rangpur Rangers,field first,Royals,SylhetICS,Sylhet,0,30,30 runs,David Millns,Mahfuzur Rahman
+2019/20,28th,Dec 31 2019,Rangpur Rangers,182,6,Rajshahi Royals,135,8,Lewis Gregory,Rajshahi Royals,field first,Rangers,SBNCS,Mirpur,0,47,47 runs,David Millns,Tanvir Ahmed
+2019/20,27th,Dec 31 2019,Chattogram Challengers,159,6,Cumilla Warriors,161,8,Dawid Malan,Cumilla Warriors,field first,Warriors,SBNCS,Mirpur,2,0,2 wickets,Masudur Rahman,Prageeth Rambukwella
+2019/20,26th,Dec 30 2019,Dhaka Platoon,174,5,Rajshahi Royals,100,10,Wahab Riaz,Rajshahi Royals,field first,Platoon,SBNCS,Mirpur,0,74,74 runs,D Milns,Tanvir Ahmed
+2019/20,25th,Dec 30 2019,Sylhet Thunder,133,9,Rangpur Rangers,134,3,Mustafizur Rahman,Rangpur Rangers,field first,Rangers,SBNCS,Mirpur,7,0,7 wickets,Moniruzzaman,Prageeth Rambukwella
+2019/20,24th,Dec 28 2019,Sylhet Thunder,157,4,Khulna Tigers,158,2,Mehidy Hasan Miraz,Khulna Tigers,field first,Tigers,SBNCS,Mirpur,8,0,8 wickets,Mahfuzur Rahman,Prageeth Rambukwella
+2019/20,23rd,Dec 28 2019,Rajshahi Royals,190,4,Cumilla Warriors,175,4,Shoaib Malik,Cumilla Warriors,field first,Royals,SBNCS,Mirpur,0,15,15 runs,David Millns,Morshed Ali Khan
+2019/20,22nd,Dec 27 2019,Khulna Tigers,182,7,Rangpur Rangers,130,9,Shohidul Islam,Rangpur Rangers,field first,Tigers,SBNCS,Mirpur,0,52,52 runs,Mahfuzur Rahman,Prageeth Rambukwella
+2019/20,21st,Dec 27 2019,Dhaka Platoon,124,9,Chattogram Challengers,125,4,Imrul Kayes,Chattogram Challengers,field first,Challengers,SBNCS,Mirpur,6,0,6 wickets,David Millns,Sharfuddoula
+2019/20,20th,Dec 24 2019,Cumilla Warriors,170,8,Rajshahi Royals,171,3,Dawid Malan,Rajshahi Royals,field first,Royals,ZACS,Chattogram,7,0,7 wickets,Dawid Malan,Afif Hossain
+2019/20,19th,Dec 24 2019,Sylhet Thunder,174,4,Dhaka Platoon,175,2,Mahedi Hasan,Sylhet Thunder,bat first,Platoon,ZACS,Chattogram,8,0,8 wickets,David Millns,Gazi Sohel
+2019/20,18th,Dec 23 2019,Khulna Tigers,145,9,Rajshahi Royals,149,3,Andre Russell,Rajshahi Royals,field first,Royals,ZACS,Chattogram,7,0,7 wickets,David Millns,Morshed Ali Khan
+2019/20,17th,Dec 23 2019,Cumilla Warriors,160,3,Dhaka Platoon,161,5,Mahedi Hasan,Dhaka Platoon,field first,Platoon,ZACS,Chattogram,5,0,5 wickets,Gazi Sohel,Prageeth Rambukwella
+2019/20,16th,Dec 21 2019,Chattogram Challengers,163,7,Rangpur Rangers,167,4,Lewis Gregory,Rangpur Rangers,field first,Rangers,ZACS,Chattogram,6,0,6 wickets,David Millns,Masudur Rahman
+2019/20,15th,Dec 21 2019,Sylhet Thunder,232,5,Khulna Tigers,152,10,Andre Fletcher,Khulna Tigers,field first,Thunder,ZACS,Chattogram,0,80,80 runs,Mahfuzur Rahman,Prageeth Rambukwella
+2019/20,14th,Dec 20 2019,Chattogram Challengers,238,4,Cumilla Warriors,222,7,Chadwick Walton,Cumilla Warriors,field first,Challengers,ZACS,Chattogram,0,16,16 runs,D Milns,Masudur Rahman
+2019/20,13th,Dec 20 2019,Rangpur Rangers,137,9,Khulna Tigers,138,2,Shafiul Islam,Khulna Tigers,field first,Tigers,ZACS,Chattogram,8,0,8 wickets,Prageeth Rambukwella,Tanvir Ahmed
+2019/20,12th,Dec 18 2019,Chattogram Challengers,221,4,Dhaka Platoon,205,10,Mehedi Hasan Rana,Dhaka Platoon,field first,Challengers,ZACS,Chattogram,0,16,16 runs,Prageeth Rambukwella,Sharfuddoula
+2019/20,11th,Dec 18 2019,Rangpur Rangers,181,8,Cumilla Warriors,182,4,Dawid Malan,Rangpur Rangers,bat first,Warriors,ZACS,Chattogram,6,0,6 wickets,David Millns,Mahfuzur Rahman
+2019/20,10th,Dec 17 2019,Sylhet Thunder,129,8,Chattogram Challengers,130,6,Mehedi Hasan Rana,Chattogram Challengers,field first,Challengers,ZACS,Chattogram,4,0,4 wickets,David Millns,Masudur Rahman
+2019/20,9th,Dec 17 2019,Rajshahi Royals,189,4,Khulna Tigers,192,5,Mushfiqur Rahim,Khulna Tigers,field first,Tigers,ZACS,Chattogram,5,0,5 wickets,Prageeth Rambukwella,Sharfuddoula
+2019/20,8th,Dec 14 2019,Dhaka Platoon,182,4,Sylhet Thunder,158,7,Anamul Haque,Sylhet Thunder,field first,Platoon,SBNCS,Mirpur,0,24,24 runs,Masudur Rahman,Prageeth Rambukwella
+2019/20,7th,Dec 14 2019,Rangpur Rangers,157,8,Chattogram Challengers,158,4,Mohammad Naim,Chattogram Challengers,field first,Challengers,SBNCS,Mirpur,6,0,6 wickets,Morshed Ali Khan,Sharfuddoula
+2019/20,6th,Dec 13 2019,Dhaka Platoon,180,7,Cumilla Warriors,160,9,Thisara Perera,Cumilla Warriors,field first,Platoon,SBNCS,Mirpur,0,20,20 runs,Masudur Rahman,Prageeth Rambukwella
+2019/20,5th,Dec 13 2019,Sylhet Thunder,91,10,Rajshahi Royals,95,2,Alok Kapali,Rajshahi Royals,field first,Royals,SBNCS,Mirpur,8,0,8 wickets,Mahfuzur Rahman,Sharfuddoula
+2019/20,4th,Dec 12 2019,Chattogram Challengers,144,6,Khulna Tigers,146,2,Rilee Rossouw,Khulna Tigers,field first,Tigers,SBNCS,Mirpur,8,0,8 wickets,Masudur Rahman,Prageeth Rambukwella
+2019/20,3rd,Dec 12 2019,Dhaka Platoon,134,9,Rajshahi Royals,136,1,Ravi Bopara,Rajshahi Royals,field first,Royals,SBNCS,Mirpur,9,0,9 wickets,Gazi Sohel,Sharfuddoula
+2019/20,2nd,Dec 11 2019,Cumilla Warriors,173,7,Rangpur Rangers,68,10,Dasun Shanaka,Cumilla Warriors,bat first,Warriors,SBNCS,Mirpur,0,105,105 runs,Masudur Rahman,Tanvir Ahmed
+2019/20,1st,Dec 11 2019,Sylhet Thunder,162,4,Chattogram Challengers,163,5,Imrul Kayes,Chattogram Challengers,field first,Challengers,SBNCS,Mirpur,5,0,5 wickets,Prageeth Rambukwella,Sharfuddoula
+2021/22,10th,Jan 28 2022,Sylhet Sunrisers,175,5,Minister Group Dhaka,177,1,Tamim Iqbal,Minister Group Dhaka,field first,Dhaka,ZACS,Chattogram,9,0,9 wickets,Mahfuzur Rahman,Prageeth Rambukwella
+2021/22,9th,Jan 28 2022,Chattogram Challengers,143,8,Khulna Tigers,144,4,Andre Fletcher,Khulna Tigers,field first,Tigers,ZACS,Chattogram,6,0,6 wickets,Masudur Rahman,Tanvir Ahmed
+2021/22,8th,Jan 25 2022,Comilla Victorians,158,7,Fortune Barishal,95,10,Nahidul Islam,Fortune Barishal,field first,Victorians,SBNCS,Mirpur,0,63,63 runs,Morshed Ali Khan,Tanvir Ahmed
+2021/22,7th,Jan 25 2022,Minister Group Dhaka,100,10,Sylhet Sunrisers,101,3,Nazmul Islam,Sylhet Sunrisers,field first,Sunrisers,SBNCS,Mirpur,7,0,7 wickets,Masudur Rahman,Sharfuddoula
+2021/22,6th,Jan 24 2022,Chattogram Challengers,190,7,Khulna Tigers,165,9,Benny Howell,Khulna Tigers,field first,Challengers,SBNCS,Mirpur,0,25,25 runs,Morshed Ali Khan,Sharfuddoula
+2021/22,5th,Jan 24 2022,Fortune Barishal,129,8,Minister Group Dhaka,130,6,Mahmudullah,Minister Group Dhaka,field first,Dhaka,SBNCS,Mirpur,4,0,4 wickets,Masudur Rahman,Tanvir Ahmed
+2021/22,4th,Jan 22 2022,Chattogram Challengers,161,8,Minister Group Dhaka,131,10,Nasum Ahmed,Minister Group Dhaka,field first,Challengers,SBNCS,Mirpur,0,30,30 runs,Sharfuddoula,Tanvir Ahmed
+2021/22,3rd,Jan 22 2022,Sylhet Sunrisers,96,10,Comilla Victorians,97,8,Nahidul Islam,Comilla Victorians,field first,Victorians,SBNCS,Mirpur,2,0,2 wickets,Masudur Rahman,Morshed Ali Khan
+2021/22,2nd,Jan 21 2022,Minister Group Dhaka,183,6,Khulna Tigers,186,5,Rony Talukdar,Khulna Tigers,field first,Tigers,SBNCS,Mirpur,5,0,5 wickets,Masudur Rahman,Morshed Ali Khan
+2021/22,1st,Jan 21 2022,Chattogram Challengers,125,8,Fortune Barishal,126,6,Mehidy Hasan Miraz,Fortune Barishal,field first,Barishal,SBNCS,Mirpur,4,0,4 wickets,Sharfuddoula,Tanvir Ahmed
+2021/22,1st,Jan 21 2022,Chattogram Challengers,125,8,Fortune Barishal,126,6,Mehidy Hasan Miraz,Fortune Barishal,bat first,Fortune Barishal,SBNCS,Mirpur,4,0,4 wickets,Sharfuddoula,Tanvir Ahmed
+2021/22,2nd ,Jan 21 2022,Minister Group Dhaka,183,6,Khulna Tigers,186,5,Rony Talukdar,Khulna Tigers,field first,Khulna Tigers,SBNCS,Mirpur,5,0,5 wickets,Morshed Ali Khan,Masudur Rahman
+2021/22,3rd,Jan 22 2022,Sylhet Sunrisers,96,10,Comilla Victorians,97,8,Nahidul Islam,Comilla Victorians,field first,Comilla Victorians,SBNCS,Mirpur,2,0,2 wickets,Masudur Rahman,Morshed Ali Khan
+2021/22,4th,Jan 22 2022,Chattogram Challengers,161,8,Minister Group Dhaka,131,10,Nasum Ahmed,Minister Group Dhaka,field first,Chattogram Challengers,SBNCS,Mirpur,0,30,30 runs,Sharfuddoula,Tanvir Ahmed
+2021/22,5th,Jan 24 2022,Fortune Barishal,129,8,Minister Group Dhaka,130,6,Mahmudullah,Minister Group Dhaka,field first,Minister Group Dhaka,SBNCS,Mirpur,4,0,4 wickets,Masudur Rahman,Tanvir Ahmed
+2021/22,6th,Jan 24 2022,Chattogram Challengers,190,7,Khulna Tigers,165,9,Benny Howell,Khulna Tigers,field first,Chattogram Challengers,SBNCS,Mirpur,0,25,25 runs,Morshed Ali Khan,Sharfuddoula
+2021/22,7th,Jan 25 2022,Minister Group Dhaka,100,10,Sylhet Sunrisers,101,3,Nazmul Islam,Sylhet Sunrisers,field first,Sylhet Sunrisers,SBNCS,Mirpur,7,0,7 wickets,Masudur Rahman,Sharfuddoula
+2021/22,8th,Jan 25 2022,Comilla Victorians,158,7,Fortune Barishal,95,10,Nahidul Islam,Fortune Barishal,field first,Comilla Victorians,SBNCS,Mirpur,0,63,63 runs,Morshed Ali Khan,Tanvir Ahmed
+2021/22,9th,Jan 28 2022,Chattogram Challengers,143,8,Khulna Tigers,144,4,Andre Fletcher,Khulna Tigers,field first,Khulna Tigers,SBNCS,Mirpur,6,0,6 wickets,Masudur Rahman,Tanvir Ahmed
+2021/22,10th,Jan 28 2022,Sylhet Sunrisers,175,5,Minister Group Dhaka,177,1,Tamim Iqbal,Minister Group Dhaka,field first,Minister Group Dhaka,ZACS,Chattogram,9,0,9 wickets,Mahfuzur Rahman,Prageeth Rambukwella
+2021/22,11th,Jan 29 2022,Fortune Barishal,141,9,Khulna Tigers,124,10,Mehedi Hasan Rana,Khulna Tigers,field first,Fortune Barishal,ZACS,Chattogram,0,17,17 runs,Morshed Ali Khan,Prageeth Rambukwella
+2021/22,12th,Jan 29 2022,Chattogram Challengers,202,5,Sylhet Sunrisers,186,6,Mrittunjoy Chowdhury,Sylhet Sunrisers,field first,Chattogram Challengers,ZACS,Chattogram,0,16,16 runs,Mahfuzur Rahman,Sharfuddoula
+2021/22,13th,Jan 31 2022,Comilla Victorians,183,3,Chattogram Challengers,131,10,Faf du Plessis,Chattogram Challengers,field first,Comilla Victorians,ZACS,Chattogram,0,52,52 runs,Morshed Ali Khan,Sharfuddoula
+2021/22,14th,Jan 31 2022,Fortune Barishal,145,10,Khulna Tigers,139,6,Shakib Al Hasan,Fortune Barishal,bat first,Fortune Barishal,ZACS,Chattogram,0,6,6 runs,Mahfuzur Rahman,Prageeth Rambukwella
+2021/22,15th,Feb 01 2022,Minister Group Dhaka,181,6,Comilla Victorians,131,10,Mahmudullah,Comilla Victorians,field first,Minister Group Dhaka,ZACS,Chattogram,0,50,50 runs,Prageeth Rambukwella,Tanvir Ahmed
+2021/22,16th,Feb 01 2022,Fortune Barishal,149,10,Chattogram Challengers,135,10,Shakib Al Hasan,Fortune Barishal,bat first,Fortune Barishal,ZACS,Chattogram,0,14,14 runs,Mahfuzur Rahman,Masudur Rahman
+2021/22,17th,Feb 03 2022,Sylhet Sunrisers,142,5,Khulna Tigers,144,1,Andre Fletcher,Khulna Tigers,field first,Khulna Tigers,SBNCS,Mirpur,9,0,9 wickets,Masudur Rahman,Morshed Ali Khan
+2021/22,18th,Feb 03 2022,Chattogram Challengers,138,8,Comilla Victorians,148,1,Mustafizur Rahman,Comilla Victorians,field first,Comilla Victorians,SBNCS,Mirpur,9,0,9 wickets,Mahfuzur Rahman,Prageeth Rambukwella
+2021/22,21st,Feb 7 2022,Fortune Barishal,155,5,Comilla Victorians,123,9,Shakib Al Hasan,Comilla Victorians,field first,Fortune Barishal,SylhetICS,Sylhet,0,32,32 runs,Masudur Rahman,Mozahiduzzaman
+2021/22,22nd,Feb 07 2022,Khulna Tigers,182,3,Sylhet Sunrisers,167,6,Soumya Sarkar,Sylhet Sunrisers,field first,Khulna Tigers,SylhetICS,Sylhet,0,15,15 runs,Mahfuzur Rahman,Prageeth Rambukwella
+2021/22,23rd,Feb 08 2022,Chattogram Challengers,148,6,Minister Group Dhaka,145,6,Shamim Hossain,Minister Group Dhaka,field first,Chattogram Challengers,SylhetICS,Sylhet,0,3,3 runs,Prageeth Rambukwella,Mahfuzur Rahman
+2021/22,24th,Feb 08 2022,Fortune Barishal,199,4,Sylhet Sunrisers,187,6,Shakib Al Hasan,Sylhet Sunrisers,field first,Fortune Barishal,SylhetICS,Sylhet,0,12,12 runs,Mozahiduzzaman,Tanvir Ahmed
+2021/22,25th,Feb 9 2022,Khulna Tigers,129,8,Minister Group Dhaka,131,5,Arafat Sunny,Khulna Tigers,bat first,Minister Group Dhaka,SylhetICS,Sylhet,5,0,5 wickets,Prageeth Rambukwella,Tanvir Ahmed
+2021/22,26th,Feb 9 2022,Sylhet Sunrisers,169,5,Comilla Victorians,173,6,Mahmudul Hasan Joy,Comilla Victorians,field first,Comilla Victorians,SylhetICS,Sylhet,4,0,4 wickets,Mahfuzur Rahman,Mozahiduzzaman
+2021/22,27th,Feb 11 2022,Comilla Victorians,188,6,Khulna Tigers,123,10,Moeen Ali,Khulna Tigers,field first,Comilla Victorians,SBNCS,Mirpur,0,65,65 runs,Masudur Rahman,Morshed Ali Khan
+2021/22,28th,Feb 11 2022,Minister Group Dhaka,128,9,Fortune Barishal,129,2,Shakib Al Hasan,Minister Group Dhaka,bat first,Fortune Barishal,SBNCS,Mirpur,8,0,8 wickets,Mahfuzur Rahman,Prageeth Rambukwella
+2021/22,29th,Feb 12 2022,Sylhet Sunrisers,185,6,Chattogram Challengers,188,6,Will Jacks,Chattogram Challengers,field first,Chattogram Challengers,SBNCS,Mirpur,4,0,4 wickets,Masudur Rahman,Prageeth Rambukwella
+2021/22,30th,Feb 12 2022,Comilla Victorians,182,5,Khulna Tigers,183,1,Andre Fletcher,Comilla Victorians,bat first,Khulna Tigers,SBNCS,Mirpur,9,0,9 wickets,Mahfuzur Rahman,Tanvir Ahmed
+2021/22,Eliminator,Feb 14 2022,Chattogram Challengers,189,5,Khulna Tigers,182,5,Chadwick Walton,Khulna Tigers,field first,Chattogram Challengers,SBNCS,Mirpur,0,7,7 runs,Mahfuzur Rahman,Prageeth Rambukwella
+2021/22,1st Qualifier,Feb 14 2022,Fortune Barishal,143,8,Comilla Victorians,133,7,Mehedi Hasan Rana,Comilla Victorians,field first,Fortune Barishal,SBNCS,Mirpur,0,10,10 runs,Masudur Rahman,Tanvir Ahmed
+2021/22,2nd Qualifier,Feb 16 2022,Chattogram Challengers,148,10,Comilla Victorians,149,3,Sunil Narine,Chattogram Challengers,bat first,Comilla Victorians,SBNCS,Mirpur,7,0,7 wickets,Tanvir Ahmed,Prageeth Rambukwella
+2021/22,Final ,Feb 18 2022,Comilla Victorians,151,9,Fortune Barishal,150,8,Sunil Narine,Comilla Victorians,bat first,Comilla Victorians,SBNCS,Mirpur,0,1,1 runs,Masudur Rahman,Prageeth Rambukwella
+2022/23,1st,Jan 6 2023,Chattogram Challengers,89,9,Sylhet Strikers,90,2,Rejaur Rahman Raja,Sylhet Strikers,field first,Sylhet Strikers,SBNCS,Mirpur,8,0,8 wickets,Gazi Sohel,Mahfuzur Rahman
+2022/23,2nd,Jan 6 2023,Rangpur Rangers,176,5,Comilla Victorians,142,10,Rony Talukdar,Comilla Victorians,field first,Rangpur Rangers,SBNCS,Mirpur,0,34,34 runs,Morshed Ali Khan,Tanvir Ahmed
+2022/23,3rd,Jan 7 2023,Khulna Tigers,113,8,Dhaka Dominators,117,4,Nasir Hossain,Dhaka Dominators,field first,Dhaka Dominators,SBNCS,Mirpur,6,0,6 wickets,Gazi Sohel,Morshed Ali Khan
+2022/23,4th,Jan 7 2023,Fortune Barishal,194,7,Sylhet Strikers,196,4,Towhid Hridoy,Fortune Barishal,bat first,Sylhet Strikers,SBNCS,Mirpur,6,0,6 wickets,Mahfuzur Rahman,Tanvir Ahmed
+2022/23,5th,Jan 9 2023,Comilla Victorians,149,6,Sylhet Strikers,150,5,Towhid Hridoy,Sylhet Strikers,field first,Sylhet Strikers,SBNCS,Mirpur,5,0,5 wickets,David Millns,Masudur Rahman
+2022/23,6th,Jan 9 2023,Khulna Tigers,178,5,Chattogram Challengers,179,1,Usman Khan,Chattogram Challengers,field first,Chattogram Challengers,SBNCS,Mirpur,9,0,9 wickets,Raveendra Wimalasiri,Tanvir Ahmed
+2022/23,7th,Jan 10 2023,Rangpur Rangers,158,7,Fortune Barishal,162,4,Mehidy Hasan Miraz,Fortune Barishal,field first,Fortune Barishal,SBNCS,Mirpur,6,0,6 wickets,Gazi Sohel,Raveendra Wimalasiri
+2022/23,8th,Jan 10 2023,Sylhet Strikers,201,8,Dhaka Dominators,139,10,Towhid Hridoy,Dhaka Dominators,field first,Sylhet Strikers,SBNCS,Mirpur,0,62,62 runs,David Millns,Masudur Rahman
+2022/23,9th,Jan 13 2023,Fortune Barishal,202,7,Chattogram Challengers,176,4,Iftikhar Ahmed,Chattogram Challengers,field first,Fortune Barishal,ZACS,Chattogram,0,26,26 runs,Ali Arman,Raveendra Wimalasiri
+2022/23,10th,Jan 13 2023,Khulna Tigers,130,10,Rangpur Rangers,131,6,Robiul Haque,Rangpur Riders,field first,Rangpur Rangers,ZACS,Chattogram,4,0,4 wickets,Prageeth Rambukwella,Tanvir Ahmed
+2022/23,11th,Jan 14 2023,Fortune Barishal,177,6,Comilla Victorians,165,7,Shakib Al Hasan,Comilla Victorians,field first,Fortune Barishal,ZACS,Chattogram,0,12,12 runs,David Millns,Morshed Ali Khan
+2022/23,12th,Jan 14 2023,Dhaka Dominators,158,6,Chattogram Challengers,159,2,Afif Hossain,Dhaka Dominators,bat first,Chattogram Challengers,ZACS,Chattogram,8,0,8 wickets,Ali Arman,Prageeth Rambukwella
+2022/23,13th,Jan 16 2023,Dhaka Dominators,128,7,Sylhet Strikers,134,5,Imad Wasim,Dhaka Dominators,bat first,Sylhet Strikers,ZACS,Chattogram,5,0,5 wickets,David Millns,Morshed Ali Khan
+2022/23,14th,Jan 16 2023,Chattogram Challengers,135,8,Comilla Victorians,137,4,Litton Das,Chattogram Challengers,bat first,Comilla Victorians,ZACS,Chattogram,6,0,6 wickets,Ali Arman,Raveendra Wimalasiri
+2022/23,15th,Jan 17 2023,Rangpur Rangers,129,10,Khulna Tigers,130,1,Wahab Riaz,Khulna Tigers,field first,Khulna Tigers,ZACS,Chattogram,9,0,9 wickets,Ali Arman,David Millns
+2022/23,16th,Jan 17 2023,Sylhet Strikers,133,7,Comilla Victorians,134,5,Litton Das,Comilla Victorians,field first,Comilla Victorians,ZACS,Chattogram,5,0,5 wickets,Prageeth Rambukwella,Tanvir Ahmed
+2022/23,17th,Jan 19 2023,Comilla Victorians,184,4,Dhaka Dominators,151,4,Khushdil Shah,Dhaka Dominators,field first,Comilla Victorians,ZACS,Chattogram,0,33,33 runs,Raveendra Wimalasiri,Mahfuzur Rahman
+2022/23,18th,Jan 19 2023,Fortune Barishal,238,4,Rangpur Rangers,171,9,Iftikhar Ahmed,Rangpur Rangers,field first,Fortune Barishal,ZACS,Chattogram,0,67,67 runs,Masudur Rahman,Prageeth Rambukwella
+2022/23,19th,Jan 20 2023,Chattogram Challengers,157,9,Khulna Tigers,159,3,Mahmudul Hasan Joy,Khulna Tigers,field first,Khulna Tigers,ZACS,Chattogram,7,0,7 wickets,Mahfuzur Rahman,Raveendra Wimalasiri
+2022/23,20th,Jan 20 2023,Fortune Barishal,173,5,Dhaka Dominators,160,4,Iftikhar Ahmed,Dhaka Dominators,field first,Fortune Barishal,ZACS,Chattogram,0,13,13 runs,David Millns,Masudur Rahman
+2022/23,21st,Jan 23 2023,Rangpur Rangers,179,6,Chattogram Challengers,124,10,Shoaib Malik,Chattogram Challengers,field first,Rangpur Rangers,SBNCS,Mirpur,0,55,55 runs,Muhammad Kamruzzaman,Prageeth Rambukwella
+2022/23,22nd,Jan 23 2023,Comilla Victorians,164,6,Dhaka Dominators,104,9,Khushdil Shah,Dhaka Dominators,field first,Comilla Victorians,SBNCS,Mirpur,0,60,60 runs,Masudur Rahman,Raveendra Wimalasiri
+2022/23,23rd,Jan 24 2023,Sylhet Strikers,173,5,Fortune Barishal,178,8,Najmul Hossain Shanto,Fortune Barishal,field first,Sylhet Strikers,SBNCS,Mirpur,0,2,2 runs,David Millns,Masudur Rahman
+2022/23,24th,Jan 24 2023,Dhaka Dominators,108,10,Khulna Tigers,84,10,Taskin Ahmed,Khulna Tigers,field first,Dhaka Dominators,SBNCS,Mirpur,0,24,24 runs,Muhammad Kamruzzaman,Raveendra Wimalasiri
+2022/23,25th,Jan 27 2023,Sylhet Strikers,92,9,Rangpur Rangers,93,4,Azmatullah Omarzai,Rangpur Riders,field first,Rangpur Rangers,SylhetICS,Sylhet,6,0,6 wickets,Gazi Sohel,Prageeth Rambukwella
+2022/23,26th,Jan 27 2023,Chattogram Challengers,168,6,Fortune Barishal,171,7,Anamul Haque,Fortune Barishal,field first,Fortune Barishal,SylhetICS,Sylhet,3,0,3 wickets,David Millns,Mahfuzur Rahman
+2022/23,27th,Jan 28 2023,Comilla Victorians,165,2,Khulna Tigers,161,6,Mohammad Rizwan,Khulna Tigers,field first,Comilla Victorians,SylhetICS,Sylhet,0,4,4 runs,Mahfuzur Rahman,Raveendra Wimalasiri
+2022/23,28th,Jan 28 2023,Chattogram Challengers,174,6,Sylhet Strikers,177,3,Najmul Hossain Shanto,Chattogram Challengers,bat first,Sylhet Strikers,SylhetICS,Sylhet,7,0,7 wickets,David Millns,Tanvir Ahmed
+2022/23,29th,Jan 30 2023,Dhaka Dominators,144,5,Rangpur Rangers,146,5,Mahedi Hasan,Rangpur Riders,field first,Rangpur Rangers,SylhetICS,Sylhet,5,0,5 wickets,Ali Arman,Prageeth Rambukwella
+2022/23,30th,Jan 30 2023,Sylhet Strikers,192,4,Khulna Tigers,161,9,Towhid Hridoy,Khulna Tigers,field first,Sylhet Strikers,SylhetICS,Sylhet,0,31,31 runs,Morshed Ali Khan,Raveendra Wimalasiri
+2022/23,31st,Jan 31 2023,Fortune Barishal,156,8,Dhaka Dominators,157,5,Mohammad Mithun,Fortune Barishal,bat first,Dhaka Dominators,SylhetICS,Sylhet,5,0,5 wickets,Mozahiduzzaman,Prageeth Rambukwella
+2022/23,32nd,Jan 31 2023,Khulna Tigers,210,2,Comilla Victorians,213,3,Johnson Charles,Comilla Victorians,field first,Comilla Victorians,SylhetICS,Sylhet,7,0,7 wickets,David Millns,Raveendra Wimalasiri
+2022/23,33rd,Feb 3 2023,Fortune Barishal,194,5,Khulna Tigers,157,8,Shakib Al Hasan,Khulna Tigers,field first,Fortune Barishal,SBNCS,Mirpur,0,37,37 runs,David Millns,Masudur Rahman
+2022/23,34th,Feb 3 2023,Dhaka Dominators,130,8,Rangpur Rangers,133,8,Nurul Hasan,Rangpur Riders,field first,Rangpur Rangers,SBNCS,Mirpur,2,0,2 wickets,Gazi Sohel,Prageeth Rambukwella
+2022/23,35th,Feb 4 2023,Chattogram Challengers,156,7,Comilla Victorians,157,4,Mohammad Rizwan,Chattogram Challengers,bat first,Comilla Victorians,SBNCS,Mirpur,6,0,6 wickets,Gazi Sohel,Raveendra Wimalasiri
+2022/23,36th,Feb 4 2023,Sylhet Strikers,170,2,Rangpur Rangers,176,2,Rony Talukdar,Rangpur Riders,field first,Rangpur Rangers,SBNCS,Mirpur,8,0,8 wickets,Masudur Rahman,Prageeth Rambukwella
+2022/23,37th,Feb 7 2023,Chattogram Challengers,118,8,Dhaka Dominators,103,9,Ziaur Rahman,Chattogram Challengers,bat first,Chattogram Challengers,SBNCS,Mirpur,0,15,15 runs,David Millns,Mozahiduzzaman
+2022/23,38th,Feb 7 2023,Fortune Barishal,121,10,Comilla Victorians,122,5,Mukidul Islam,Comilla Victorians,field first,Comilla Victorians,SBNCS,Mirpur,5,0,5 wickest,Mahfuzur Rahman,Raveendra Wimalasiri
+2022/23,39th,Feb 8 2023,Khulna Tigers,113,8,Sylhet Strikers,114,4,Imad Wasim,Khulna Tigers,bat first,Sylhet Strikers,SBNCS,Mirpur,6,0,6 wickets,David Millns,Mahfuzur Rahman
+2022/23,40th,Feb 8 2023,Chattogram Challengers,132,8,Rangpur Rangers,135,3,Haris Rauf,Chattogram Challengers,bat first,Rangpur Rangers,SBNCS,Mirpur,7,0,7 wickets,Mozahiduzzaman,Prageeth Rambukwella
+2022/23,41st,Feb 10 2023,Comilla Victorians,177,5,Rangpur Rangers,107,10,Tanvir Islam,Rangpur Riders,field first,Comilla Victorians,SBNCS,Mirpur,0,70,70 runs,Mahfuzur Rahman,Prageeth Rambukwella
+2022/23,42nd,Feb 10 2023,Fortune Barishal,169,8,Khulna Tigers,172,4,Mahmudul Hasan Joy,Fortune Barishal,bat first,Khulna Tigers,SBNCS,Mirpur,6,0,6 wickets,Ali Arman,Raveendra Wimalasiri
+2022/23,Eliminator,Feb 12 2023,Fortune Barishal,170,3,Rangpur Rangers,172,6,Shamim Hossain,Rangpur Riders,field first,Rangpur Rangers,SBNCS,Mirpur,4,0,4 wickets,Ali Arman,Prageeth Rambukwella
+2022/23,1st Qualifier,Feb 12 2023,Sylhet Strikers,125,10,Comilla Victorians,130,6,Tanvir Islam,Comilla Victorians,field first,Comilla Victorians,SBNCS,Mirpur,4,0,4 wickets,David Millns,Raveendra Wimalasiri
+2022/23,2nd Qualifier,Feb 14 2023,Sylhet Strikers,182,7,Rangpur Rangers,163,8,Tanzim Hasan Sakib,Rangpur Riders,field first,Sylhet Strikers,SBNCS,Mirpur,0,19,19 runs,Prageeth Rambukwella,Raveendra Wimalasiri
+2022/23,Final,Feb 16 2023,Sylhet Strikers,175,7,Comilla Victorians,176,3,Johnson Charles,Comilla Victorians,field first,Comilla Victorians,SBNCS,Mirpur,7,0,7 wickets,David Millns,Tanvir Ahmed
+2023/24,1st,Jan 19 2024,Comilla Victorians ,143,6,Durdanto Dhaka,147,5,Shoriful Islam,Durdanto Dhaka,field first,Durdanto Dhaka,SBNCS,Mirpur,5,0,5 wickets,David Millns,Mahfuzur Rahman
+2023/24,2nd,Jan 19 2024,Sylhet Strikers,177,2,Chattogram Challengers,180,3,Najibullah Zadran,Chattogram Challengers,field first,Chattogram Challengers,SBNCS,Mirpur,7,0,7 wickets,Asif Yaqoob,Morshed Ali Khan
+2023/24,3rd,Jan 20 2024,Rangpur Riders,134,9,Fortune Barishal ,138,5,Khaled Ahmed,Fortune Barishal,field first,Fortune Barishal ,SBNCS,Mirpur,5,0,5 wickets,Ali Arman,Asif Yaqoob
+2023/24,4th,Jan 20 2024,Chattogram Challengers,121,10,Khulna Tigers,122,6,Nahidul Islam,Khulna Tigers,field first,Khulna Tigers,SBNCS,Mirpur,4,0,4 wickets,David Millns,Morshed Ali Khan
+2023/24,5th,Jan 22 2024,Durdanto Dhaka,136,8,Chattogram Challengers,137,4,tanzid-hasan,Chattogram Challengers,field first,Chattogram Challengers,SBNCS,Mirpur,6,0,6 wickets,Asif Yaqoob,Muhammad Kamruzzaman
+2023/24,6th,Jan 22 2024,Fortune Barishal ,187,4,Khulna Tigers,188,2,Anamul Haque,Khulna Tigers,field first,Khulna Tigers,SBNCS,Mirpur,8,0,8 wickets,David Millns,Tanvir Ahmed
+2023/24,7th,Jan 23 2024,Sylhet Strikers,120,8,Rangpur Riders,125,6,Azmatullah Omarzai,Rangpur Riders,field first,Rangpur Riders,SBNCS,Mirpur,4,0,4 wickets,David Millns,Mahfuzur Rahman
+2023/24,8th,Jan 23 2024,Fortune Barishal ,161,9,Comilla Victorians,162,6,Matthew Forde,Comilla Victorians,field first,Comilla Victorians,SBNCS,Mirpur,4,0,4 wickets,Asif Yaqoob,Moniruzzaman
+2023/24,9th,Jan 26 2024,Khulna Tigers,160,6,Rangpur Riders,132,10,Dasun Shanaka,Rangpur Riders,field first,Khulna Tigers,SylhetICS,Sylhet,0,28,28 runs,Asif Yaqoob,Muhammad Kamruzzaman
+2023/24,10th,Jan 26 2024,Comilla Victorians ,130,8,Sylhet Strikers,78,10,Al Islam,Sylhet Strikers,field first,Comilla Victorians,SylhetICS,Sylhet,0,52,52 runs,David Millns,Mahfuzur Rahman
+2023/24,11th,Jan 27 2024,Chattogram Challengers,193,4,Fortune Barishal ,183,7,Curtis Campher,Fortune Barishal,field first,Chattogram Challengers,SylhetICS,Sylhet,0,10,10 runs,David Millns,Morshed Ali Khan
+2023/24,12th,Jan 27 2024,Rangpur Riders,183,8,Durdanto Dhaka,104,10,Babar Azam,Durdanto Dhaka,field first,Rangpur Riders,SylhetICS,Sylhet,0,79,79 runs,Asif Yaqoob,Tanvir Ahmed
+2023/24,13th,Jan 29 2024,Sylhet Strikers,137,4,Chattogram Challengers,138,2,Bilal Khan,Sylhet Strikers,bat first,Chattogram Challengers,SylhetICS,Sylhet,8,0,8 wickets,David Millns,Moniruzzaman
+2023/24,14th,Jan 29 2024,Durdanto Dhaka,130,9,Khulna Tigers,131,0,Mohammad Nawaz,Durdanto Dhaka,bat first,Khulna Tigers,SylhetICS,Sylhet,10,0,10wickets,Ali Arman,Asif Yaqoob
+2023/24,15th,Jan 30 2024,Rangpur Riders,165,5,Comilla Victorians,157,6,Azmatullah Omarzai,Rangpur Riders,bat first,Rangpur Riders,SylhetICS,Sylhet,0,8,8 runs,Asif Yaqoob,Muhammad Kamruzzaman
+2023/24,16th,Jan 30 2024,Fortune Barishal ,186,5,Sylhet Strikers,137,10,Mahmudullah,Sylhet Strikers,field first,Fortune Barishal ,SylhetICS,Sylhet,0,49,49 runs,David Millns,Mahfuzur Rahman
+2023/24,17th,Feb 2 2024,Sylhet Strikers,142,8,Durdanto Dhaka,127,9,Richard Ngarava,Durdanto Dhaka,field first,Sylhet Strikers,SylhetICS,Sylhet,0,15,15 runs,Ali Arman,Asif Yaqoob
+2023/24,18th,Feb 2 2024,Chattogram Challengers,72,10,Comilla Victorians,73,3,Tanvir Islam,Comilla Victorians,field first,Comilla Victorians,SylhetICS,Sylhet,7,0,7 wickets,David Millns,Tanvir Ahmed
+2023/24,19th,Feb 3 2024,Khulna Tigers,155,8,Fortune Barishal ,156,5,Shoaib Malik,Fortune Barishal,field first,Fortune Barishal ,SylhetICS,Sylhet,5,0,5 wickets,David Millns,Morshed Ali Khan
+2023/24,20th,Feb 3 2024,Rangpur Riders,162,7,Sylhet Strikers,85,10,Nurul Hasan,Sylhet Strikers,field first,Rangpur Riders,SylhetICS,Sylhet,0,77,77 runs,Asif Yaqoob,Moniruzzaman
+2023/24,21st,Feb 6 2024,Rangpur Riders,175,4,Durdanto Dhaka,115,10,Shakib Al Hasan,Durdanto Dhaka,field first,Rangpur Riders,SBNCS,Mirpur,0,60,60 runs,Asif Yaqoob,Mahfuzur Rahman
+2023/24,22nd,Feb 6 2024,Chattogram Challengers,145,5,Fortune Barishal ,129,8,Shohidul Islam,Fortune Barishal,field first,Chattogram Challengers,SBNCS,Mirpur,0,16,16 runs,David Millns,Morshed Ali Khan
+2023/24,23rd,Feb 7 2024,Comilla Victorians ,149,7,Khulna Tigers,115,10,Aamer Jamal,Comilla Victorians,bat first,Comilla Victorians,SBNCS,Mirpur,0,34,34 runs,David Millns,Moniruzzaman
+2023/24,24th,Feb 7 2024,Durdanto Dhaka,124,8,Sylhet Strikers,129,5,Benny Howell,Sylhet Strikers,field first,Sylhet Strikers,SBNCS,Mirpur,5,0,5 wickets,Mahfuzur Rahman,Tanvir Ahmed
+2023/24,25th,Feb 9 2024,Khulna Tigers,153,3,Sylhet Strikers,159,5,Harry Tector,Khulna Tigers,bat first,Sylhet Strikers,SBNCS,Mirpur,5,0,5 wickets,Asif Yaqoob,Mahfuzur Rahman
+2023/24,26th,Feb 9 2024,Durdanto Dhaka,175,4,Comilla Victorians,176,6,Towhid Hridoy,Durdanto Dhaka,bat first,Comilla Victorians,SBNCS,Mirpur,4,0,4 wickets,David Millns,Tanvir Ahmed
+2023/24,27th,Feb 10 2024,Rangpur Riders,211,3,Chattogram Challengers,158,6,James Neesham,Rangpur Riders,bat first,Rangpur Riders,SBNCS,Mirpur,0,53,53 runs,Asif Yaqoob,Moniruzzaman
+2023/24,28th,Feb 10 2024,Fortune Barishal ,189,4,Durdanto Dhaka,149,10,Soumya Sarkar,Fortune Barishal,bat first,Fortune Barishal ,SBNCS,Mirpur,0,40,40 runs,David Millns,Mahfuzur Rahman
+2023/24,29th,Feb 13 2024,Comilla Victorians ,239,3,Chattogram Challengers,166,10,Will Jacks,Chattogram Challengers,field first,Comilla Victorians,ZACS,Chattogram,0,73,73 runs,Deighton Butler,Masudur Rahman
+2023/24,30th,Feb 13 2024,Rangpur Riders,219,5,Khulna Tigers,141,10,Imran Tahir,Rangpur Riders,bat first,Rangpur Riders,ZACS,Chattogram,0,78,78 runs,David Millns,Mahfuzur Rahman
+2023/24,31th,Feb 14 2024,Fortune Barishal ,186,6,Durdanto Dhaka,159,8,Tamim Iqbal,Fortune Barishal ,bat first,Fortune Barishal ,ZACS,Chattogram,0,27,27 runs,David Millns,Gazi Sohel
+2023/24,32nd,Feb 14 2024,Khulna Tigers,164,8,Comilla Victorians ,168,3,Towhid Hridoy,Khulna Tigers,bat first,Comilla Victorians ,ZACS,Chattogram,7,0,7 wickets,Deighton Butler,Tanvir Ahmed
+2023/24,33rd,Feb 16 2024,Durdanto Dhaka,128,7,Khulna Tigers,131,5,Wayne Parnell,Durdanto Dhaka,bat first,Khulna Tigers,ZACS,Chattogram,5,0,5 wickets,David Millns,Masudur Rahman
+2023/24,34th,Feb 16 2024,Rangpur Riders,187,8,Chattogram Challengers,169,6,Mahedi Hasan,Rangpur Riders,bat first,Rangpur Riders,ZACS,Chattogram,0,18,18 runs,Deighton Butler,Gazi Sohel
+2023/24,35th,Feb 17 2024,Fortune Barishal,183,6,Sylhet Strikers,165,8,Kyle Mayers,Fortune Barishal ,bat first,Fortune Barishal ,ZACS,Chattogram,0,18,18 runs,Deighton Butler,Tanvir Ahmed
+2023/24,36th,Feb 17 2024,Chattogram Challengers,159,6,Durdanto Dhaka,149,5,Tanzid Hasan,Chattogram Challengers,bat first,Chattogram Challengers,ZACS,Chattogram,0,10,10 runs,David Millns,Mahfuzur Rahman
+2023/24,37th,Feb 19 2024,Sylhet Strikers,177,5,Comilla Victorians ,165,6,Benny Howell,Sylhet Strikers,bat first,Sylhet Strikers,ZACS,Chattogram,0,12,12 runs,Deighton Butler,Gazi Sohel
+2023/24,38th,Feb 19 2024,Fortune Barishal ,151,9,Rangpur Riders,155,9,Abu Hider,Fortune Barishal ,bat first,Rangpur Riders,ZACS,Chattogram,1,0,1 wickets,David Millns,Tanvir Ahmed
+2023/24,39th,Feb 20 2024,Chattogram Challengers,192,4,Khulna Tigers,127,10,Tanzid Hasan,Chattogram Challengers,bat first,Chattogram Challengers,ZACS,Chattogram,0,65,65 runs,David Millns,Morshed Ali Khan
+2023/24,40th,Feb 20 2024,Rangpur Riders,150,10,Comilla Victorians ,151,4,Andre Russell,Comilla Victorians ,field first,Comilla Victorians,ZACS,Chattogram,6,0,6 wickets,Deighton Butler,Masudur Rahman
+2023/24,41st,Feb 23 2024,Comilla Victorians,140,8,Fortune Barishal ,141,4,Tamim Iqbal,Fortune Barishal ,field first,Fortune Barishal ,SBNCS,Mirpur,6,0,6 wickets,Deighton Butler,Gazi Sohel
+2023/24,42nd,Feb 23 2024,Khulna Tigers,128,8,Sylhet Strikers,130,4,Benny Howell,Sylhet Strikers,field first,Sylhet Strikers,SBNCS,Mirpur,6,0,6 wickets,David Millns,Tanvir Ahmed
+2023/24,Eliminator,Feb 26 2024,Chattogram Challengers,135,9,Fortune Barishal ,136,3,Kyle Mayers,Fortune Barishal,field first,Fortune Barishal,SBNCS,Mirpur,7,0,7 wickets,David Millns,Masudur Rahman
+2023/24,Qualifier1,Feb 26 2024,Rangpur Riders,185,6,Comilla Victorians,186,4,Litton Das,Comilla Victorians,field first,Comilla Victorians,SBNCS,Mirpur,6,0,6 wickets,Deighton Butler,Sharfuddoula
+2023/24,Qualifier2,Feb 28 2024,Rangpur Riders,149,7,Fortune Barishal ,152,4,Mushfiqur Rahim,Fortune Barishal,field first,Fortune Barishal,SBNCS,Mirpur,6,0,6 wickets,Deighton Butler,Gazi Sohel
+2023/24,Final,Mar 01 2024,Comilla Victorians ,154,6,Fortune Barishal ,157,4,Kyle Mayers,Fortune Barishal,field first,Fortune Barishal,SBNCS,Mirpur,6,0,6 wickets,David Millns,Sharfuddoula
+2024/25,1st,Dec 30 2024,Durbar Rajshahi,197,3,Fortune Barishal,200,6,Mahmudullah,Fortune Barishal,field first,Fortune Barishal,SBNCS,Mirpur,4,0,4 wickets,Asif Yaqoob,Masudur Rahman
+2024/25,2nd,Dec 30 2024,Rangpur Riders,196,6,Dhaka Capital,151,9,Khushdil Shah,Dhaka Capital,field first,Rangpur Riders,SBNCS,Mirpur,0,40,40 runs,Mahfuzur Rahman,RR Wimalasiri
+2024/25,3rd,Dec 31 2024,Khulna Tigers,203,4,Chittagong Kings,166,10,Mahidul Islam Ankon,Chittagong Kings,field first,Khulna Tigers,SBNCS,Mirpur,0,37,37 runs,Tanvir Ahmed,RR Wimalasiri
+2024/25,4th,Dec 31 2024,Rangpur Riders,155,6,Sylhet Strikers,121,9,Nahid Rana,Rangpur Riders,bat first,Rangpur Riders,SBNCS,Mirpur,0,34,34 runs,Asif Yaqoob,Gazi Sohel
+2024/25,5th,Jan 2 2025,Dhaka Capital,174,9,Durbar Rajshahi,179,3,Taskin Ahmed,Dhaka Capital,bat first,Durbar Rajshahi,SBNCS,Mirpur,7,0,7 wickets,Mahfuzur Rahman,RR Wimalasiri
+2024/25,6th,Jan 2 2025,Fortune Barishal,124,10,Rangpur Riders,128,2,Saif Hassan,Rangpur Riders,field first,Rangpur Riders,SBNCS,Mirpur,8,0,8 wickets,Mahfuzur Rahman,Morshed Ali Khan
+2024/25,7th,Jan 3 2025,Chittagong Kings,219,5,Durbar Rajshahi,114,10,Usman Khan,Durbar Rajshahi,field first,Chittagong Kings,SBNCS,Mirpur,0,105,105 runs,Muhammad Kamruzzaman,Asif Yaqoob
+2024/25,8th,Jan 3 2025,Khulna Tigers,173,8,Dhaka Capital,153,6,Mehidy Hasan Miraz,Dhaka Capital,field first,Khulna Tigers,SBNCS,Mirpur,0,20,20 runs,RR Wimalasiri,Gazi Sohel
+2024/25,9th,Jan 6 2025,Sylhet Strikers,205,4,Rangpur Riders,210,2,Alex Hales,Rangpur Riders,field first,Rangpur Riders,SylhetICS,SylhetI,8,0,8 wickets,Asif Yaqoob,Moniruzzaman
+2024/25,10th,Jan 6 2025,Durbar Rajshahi,168,4,Fortune Barishal,169,3,Tamim Iqbal,Fortune Barishal,field first,Fortune Barishal,SylhetICS,SylhetI,7,0,7 wickets,RR Wimalasiri,Mahfuzur Rahman
+2024/25,11th,Jan 7 2025,Dhaka Capital,111,10,Rangpur Riders,113,3,Nahid Rana,Rangpur Riders,field first,Rangpur Riders,SylhetICS,SylhetI,7,0,7 wickets,RR Wimalasiri,Tanvir Ahmed
+2024/25,12th,Jan 7 2025,Sylhet Strikers,125,10,Fortune Barishal,126,3,Jahandad Khan,Fortune Barishal,field first,Fortune Barishal,SylhetICS,SylhetI,7,0,7 wickets,Asif Yaqoob,Morshed Ali Khan
+2024/25,13th,Jan 9 2025,Fortune Barishal,197,5,Rangpur Riders,202,7,Nurul Hasan,Rangpur Riders,field first,Rangpur Riders,SylhetICS,SylhetI,3,0,3 wickets,Ali Arman,Asif Yaqoob
+2024/25,14th,Jan 9 2025,Dhaka Capital,177,5,Chittagong Kings,180,3,Khaled Ahmed,Chittagong Kings,field first,Chittagong Kings,SylhetICS,SylhetI,7,0,7 wickets,Gazi Sohel,Morshed Ali Khan
+2024/25,15th,Jan 10 2025,Durbar Rajshahi,178,5,Khulna Tigers,150,10,Ryan Burl,Khulna Tigers,field first,Durbar Rajshahi,SylhetICS,SylhetI,0,28,28 runs,RR Wimalasiri,Tanvir Ahmed
+2024/25,16th,Jan 10 2025,Dhaka Capital,193,6,Sylhet Strikers,195,7,Zakir Hasan,Dhaka Capital,bat first,Sylhet Strikers,SylhetICS,SylhetI,3,0,3 wickets,Asif Yaqoob,Masudur Rahman
+2024/25,17th,Jan 12 2025,Sylhet Strikers,182,5,Khulna Tigers,174,9,Zakir Hasan,Khulna Tigers,field first,Sylhet Strikers,SylhetICS,SylhetI,0,8,8 runs,RR Wimalasiri,Gazi Sohel
+2024/25,18th,Jan 12 2025,Dhaka Capital,254,1,Durbar Rajshahi,105,10,Litton Das,Durbar Rajshahi,field first,Dhaka Capital,SylhetICS,SylhetI,0,149,149 runs,Asif Yaqoob,Morshed Ali Khan
+2024/25,19th,Jan 13 2025,Chittagong Kings,203,6,Sylhet Strikers,173,8,Graham Clark,Sylhet Strikers,field first,Chittagong Kings,SylhetICS,SylhetI,0,30,30 runs,Ali Arman,Asif Yaqoob
+2024/25,20th,Jan 13 2025,Rangpur Riders,186,5,Khulna Tigers,178,9,Akif Javed,Rangpur Riders,bat first,Rangpur Riders,SylhetICS,SylhetI,0,8,8 runs,Masudur Rahman,RR Wimalasiri
+2024/25,21st,Jan 16 2025,Dhaka Capital,139,10,Fortune Barishal,145,10,Tamim Iqbal,Dhaka Capital,bat first,Fortune Barishal,ZACS,Chattogram,8,0,8 wickets,Moniruzzaman,Asif Yaqoob
+2024/25,22nd,Jan 16 2025,Chittagong Kings,200,7,Khulna Tigers,155,9,Graham Clark,Khulna Tigers,field first,Chittagong Kings,ZACS,Chattogram,0,45,45 runs,Sharfuddoula,Mahfuzur Rahman
+2024/25,23rd,Jan 17 2025,Durbar Rajshahi,184,7,Sylhet Strikers,119,10,Sunzamul Ialam,Durbar Rajshahi,bat first,Durbar Rajshahi,ZACS,Chattogram,0,65,65 runs,Ali Arman,RR Wimalasiri
+2024/25,24th,Jan 17 2025,Rangpur Riders,164,7,Chittagong Kings,131,8,Khushdil Shah,Chittagong Kings,field first,Rangpur Riders,ZACS,Chattogram,0,33,33 runs,Masudur Rahman,Sharfuddoula
+2024/25,25th,Jan 19 2025,Chittagong Kings,121,8,Fortune Barishal,122,4,Dawid Malan,Fortune Barishal,field first,Fortune Barishal,ZACS,Chattogram,6,0,6 wickets,Sharfuddoula,Tanvir Ahmed
+2024/25,26th,Jan 19 2025,Khulna Tigers,209,4,Durbar Rajshahi,202,4,Hasan Mahmud,Khulna Tigers,bat first,Khulna Tigers,ZACS,Chattogram,0,7,7 runs,Asif Yaqoob,Gazi Sohel
+2024/25,27th,Jan 20 2025,Dhaka Capital,196,6,Sylhet Strikers,190,7,Thisara Perera,Dhaka Capital,bat first,Dhaka Capital,ZACS,Chattogram,0,6,6 runs,Muhammad Kamruzzaman,Morshed Ali Khan
+2024/25,28th,Jan 20 2025,Chittagong Kings,191,8,Durbar Rajshahi,80,10,Naeem Islam,Durbar Rajshahi,field first,Chittagong Kings,ZACS,Chattogram,0,111,111 runs,Masudur Rahman,Gazi Sohel
+2024/25,29th,Jan 21 2025,Chittagong Kings,148,6,Dhaka Capital,149,2,Tanzid Hasan,Chittagong Kings,bat first,Dhaka Capital,ZACS,Chattogram,8,0,8 wickets,Muhammad Kamruzzaman,Gazi Sohel
+2024/25,30th,Jan 21 2025,Fortune Barishal,167,9,Khulna Tigers,160,6,Rishad Hossain,Khulna Tigers,field first,Fortune Barishal,ZACS,Chattogram,0,7,7 runs,Sharfuddoula,Morshed Ali Khan
+2024/25,31st,Jan 23 2025,Durbar Rajshahi,170,9,Rangpur Riders,146,10,Ryan Burl,Rangpur Riders,field first,Durbar Rajshahi,ZACS,Chattogram,0,24,24 runs,Gazi Sohel,Tanvir Ahmed
+2024/25,32nd,Jan 23 2025,Sylhet Strikers,152,9,Khulna Tigers,156,4,Mehidy Hasan Miraz,Sylhet Strikers,bat first,Khulna Tigers,ZACS,Chattogram,6,0,6 wickets,Masudur Rahman,Morshed Ali Khan
+2024/25,33rd,Jan 26 2025,Sylhet Strikers,116,10,Fortune Barishal,120,2,Faheem Ashraf,Sylhet Strikers,bat first,Fortune Barishal,SBNCS,Mirpur,8,0,8 wickets,RR Wimalasiri,Tanvir Ahmed
+2024/25,34th,Jan 26 2025,Durbar Rajshahi,119,9,Rangpur Riders,117,8,Mrittunjoy Chowdhury,Rangpur Riders,field first,Durbar Rajshahi,SBNCS,Mirpur,2,0,2 runs,Muhammad Kamruzzaman,Sharfuddoula
+2024/25,35th,Jan 27 2025,Khulna Tigers,187,5,Fortune Barishal,188,5,Dawid Malan,Fortune Barishal,field first,Fortune Barishal,SBNCS,Mirpur,0,5,5 wickets,Mahfuzur Rahman,Sharfuddoula
+2024/25,36th,Jan 27 2025,Sylhet Strikers,117,9,Rangpur Riders,121,5,SM Meherob,Durbar Rajshahi,field first,Durbar Rajshahi,SBNCS,Mirpur,0,5,5 wickets,Asif Yaqoob,Sajedul Islam
+2024/25,37th,Jan 28 2025,Rangpur Riders,143,5,Chittagong Kings,148,5,Haider Ali,Chittagong Kings,field first,Chittagong Kings,SBNCS,Mirpur,0,5,5 wickets,Asif Yaqoob,Morshed Ali Khan
+2024/25,38th,Jan 28 2025,Dhaka Capital,73,10,Fortune Barishal,77,1,Tanvir Islam,Fortune Barishal,field first,Fortune Barishal,SBNCS,Mirpur,0,9,9 wickets,Mahfuzur Rahman,Sharfuddoula
+2024/25,39th,Jan 30 2025,Khulna Tigers,220,4,Rangpur Riders,174,9,Mohammad Naim,Khulna Tigers,bat first,Khulna Tigers,SBNCS,Mirpur,46,0,46 runs,Tanvir Ahmed,RR Wimalasiri
+2024/25,40th,Jan 30 2025,Chittagong Kings,196,8,Sylhet Strikers,100,10,Shoriful Islam,Sylhet Strikers,field first,Chittagong Kings,SBNCS,Mirpur,96,0,96 runs,Gazi Sohel,Morshed Ali Khan
+2024/25,41st,Feb 1 2025,Dhaka Capital,123,9,Khulna Tigers,128,4,Mehidy Hasan Miraz,Dhaka Capital,bat first,Khulna Tigers,SBNCS,Mirpur,0,6,6 wickets,Mahfuzur Rahman,Morshed Ali Khan
+2024/25,42nd,Feb 1 2025,Chittagong Kings,206,4,Fortune Barishal,182,7,Parvez Hossain Emon,Fortune Barishal,field first,Chittagong Kings,SBNCS,Mirpur,24,0,24 runs,Masudur Rahman,RR Wimalasiri
+2024/25,Eliminator,Feb 3 2025,Rangpur Riders,85,10,Khulna Tigers,89,1,Nasum Ahmed,Rangpur Riders,bat first,Khulna Tigers,SBNCS,Mirpur,0,9,9 wickets,RR Wimalasiri,Masudur Rahman
+2024/25,Qualifier 1,Feb 3 2025,Chittagong Kings,149,9,Fortune Barishal,150,1,Mohammad Ali,Fortune Barishal,field first,Fortune Barishal,SBNCS,Mirpur,0,9,9 wickets,Asif Yaqoob,Morshed Ali Khan
+2024/25,Qualifier 2,Feb 5 2025,Khulna Tigers,163,6,Chittagong Kings,164,8,Al Islam,Chittagong Kings,field first,Chittagong Kings,SBNCS,Mirpur,0,2,2 wickets,Gazi Sohel,RR Wimalasiri
+2024/25,Final,Feb 7 2025,Chittagong Kings,194,7,Fortune Barishal,195,7,Tamim Iqbal,Fortune Barishal,field first,Fortune Barishal,SBNCS,Mirpur,0,3,3 wickets,Gazi Sohel,Masudur Rahman
